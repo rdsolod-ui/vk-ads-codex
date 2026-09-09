@@ -1,0 +1,4982 @@
+{
+  "checked": "2026-09-09",
+  "scope": "Official help and API navigation indexes; original task guides are synthesized separately. Retrieval is not execution/testing of every method.",
+  "sources": [
+    {
+      "title": "Авторизация в API",
+      "url": "https://ads.vk.ru/doc/api/info/%D0%90%D0%B2%D1%82%D0%BE%D1%80%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F%20%D0%B2%20API",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "bcf194feac8e44bdf2c0dda5abe743647b74b4ad95b41c06703c81f6b2ba260a"
+    },
+    {
+      "title": "Быстрый старт",
+      "url": "https://ads.vk.ru/doc/api/info/%D0%91%D1%8B%D1%81%D1%82%D1%80%D1%8B%D0%B9%20%D1%81%D1%82%D0%B0%D1%80%D1%82",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "edadfc91c7c95d4b14296745206ee1099c7cbf9f52ba601c9cec00e88dd6d5d7"
+    },
+    {
+      "title": "Добавление объявлений",
+      "url": "https://ads.vk.ru/doc/api/info/%D0%94%D0%BE%D0%B1%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%D1%8A%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B9",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "a69ec23ef0d47f5eb7b76101b4e8667ece7ebc1f4b0d69a1664c4e447279b9b8"
+    },
+    {
+      "title": "Особенности API",
+      "url": "https://ads.vk.ru/doc/api/info/%D0%9E%D1%81%D0%BE%D0%B1%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8%20API",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "2fd6b3eee139b9b0b9a3b1d9840be977aca444fc493ba044a78d802b6b36300c"
+    },
+    {
+      "title": "Устройство API",
+      "url": "https://ads.vk.ru/doc/api/info/%D0%A3%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%BE%20API",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "44bb1243663a552c086b18aa820d072809734a1b796cc5307a5f6f88c3614108"
+    },
+    {
+      "title": "SearchPhrases",
+      "url": "https://ads.vk.ru/doc/api/info/SearchPhrases",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "bd747640f67051a1a82c9c252aca2f29af28ed626560c912750718a0c236f78b"
+    },
+    {
+      "title": "SegmentParams",
+      "url": "https://ads.vk.ru/doc/api/info/SegmentParams",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "4022cb905e57363ab2b8dd0adc704b220c4cc10433121ec1c7f49a5eb188b24a"
+    },
+    {
+      "title": "SharingKeys",
+      "url": "https://ads.vk.ru/doc/api/info/SharingKeys",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "af5829548209bfe7f2ef31ef6a05057dbd7bedd8400faea2cd64b85b1a925797"
+    },
+    {
+      "title": "Statistics",
+      "url": "https://ads.vk.ru/doc/api/info/Statistics",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "89b906fb07f3248b0171b8615d1ea6448d9c067263d3ab27474810ab289dd897"
+    },
+    {
+      "title": "AdGroup",
+      "url": "https://ads.vk.ru/doc/api/object/AdGroup",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "631d9ca05e8472a750689cd72ebe7e2046a2b1a15993b8f40d6c5baafe8a0f57"
+    },
+    {
+      "title": "AdGroupMassAction",
+      "url": "https://ads.vk.ru/doc/api/object/AdGroupMassAction",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "774eae477cc1b582ca25aa72b08d85d9df592aecc1ae431ca0d619a693afe587"
+    },
+    {
+      "title": "AdPlan",
+      "url": "https://ads.vk.ru/doc/api/object/AdPlan",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "63cd806bdd75fa23aa8667f13213f5263af0a4de220c63deee5a9a4520960bb6"
+    },
+    {
+      "title": "AdPlanMassAction",
+      "url": "https://ads.vk.ru/doc/api/object/AdPlanMassAction",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "c44be00e4217b9858bea9c525d2c8ff92b27d4a6cf3ed87e5651bff10cde4112"
+    },
+    {
+      "title": "AdditionalClientInfo",
+      "url": "https://ads.vk.ru/doc/api/object/AdditionalClientInfo",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "562e4292d407e14c1315c2c522432130c0bef38f5b479d8dfc3956205b2c67f8"
+    },
+    {
+      "title": "AdditionalManagerInfo",
+      "url": "https://ads.vk.ru/doc/api/object/AdditionalManagerInfo",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "ec13dece5c6111c3584404f59ee5f115f2076a31929c084b8b5618d592879c86"
+    },
+    {
+      "title": "AdditionalUserInfo",
+      "url": "https://ads.vk.ru/doc/api/object/AdditionalUserInfo",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "c6c9872b825d095a09e28397985a2da6b8ddecfae38fe42a412de7f699cbd880"
+    },
+    {
+      "title": "AgeTargeting",
+      "url": "https://ads.vk.ru/doc/api/object/AgeTargeting",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "24877789993197af5e6e2c865dde893b51bd6cbe9c645813d4d5c8917392be93"
+    },
+    {
+      "title": "AgeTargetingMassAction",
+      "url": "https://ads.vk.ru/doc/api/object/AgeTargetingMassAction",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "46531fc0ec9798c20acf16a7b83d2b6d408fe26069eba3b29b93667ebb0c48c6"
+    },
+    {
+      "title": "Agency",
+      "url": "https://ads.vk.ru/doc/api/object/Agency",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "d30ff1980d6b87da17751f5c665088d56fede04aeddb8206f23305b58ed1bace"
+    },
+    {
+      "title": "AgencyClient",
+      "url": "https://ads.vk.ru/doc/api/object/AgencyClient",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "7125b44830fd3fd65226735ad7fd137a2eb1dd64757084f1ff5267d7267f444c"
+    },
+    {
+      "title": "AgencyClientsCount",
+      "url": "https://ads.vk.ru/doc/api/object/AgencyClientsCount",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "c78aefde8ca54b534d6f6650dce2479b7422aaf0c0f733cfacca0855639d0c8f"
+    },
+    {
+      "title": "AgencyManager",
+      "url": "https://ads.vk.ru/doc/api/object/AgencyManager",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "01eb4bb569d5e88c8ad0aeaae7d443772eff1644c6e436980df888146d42ca54"
+    },
+    {
+      "title": "AgencyManagerClient",
+      "url": "https://ads.vk.ru/doc/api/object/AgencyManagerClient",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "8ade0a8619b7b57bb6ae9192681e3a3aba67972c48f81e14cfc50f84ccd86ecb"
+    },
+    {
+      "title": "AppleApp",
+      "url": "https://ads.vk.ru/doc/api/object/AppleApp",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "f60c2abfc034df23919a5d8eaf7ccdfc366392889f6b31daefb5bd5d21c5e446"
+    },
+    {
+      "title": "AuditPixel",
+      "url": "https://ads.vk.ru/doc/api/object/AuditPixel",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "4cd7e06334887a024eac38246477846d706cfbacdffc9824c705a3bf1ecd4020"
+    },
+    {
+      "title": "AuditPixelCheck",
+      "url": "https://ads.vk.ru/doc/api/object/AuditPixelCheck",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "4ec8019e7d0118fe461aee2566cc5b05bedb13cbbf6e683125190644be0921ac"
+    },
+    {
+      "title": "Banner",
+      "url": "https://ads.vk.ru/doc/api/object/Banner",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "062c7787ea121a19714c211ef1e5ea417607eb6a29a75f2308bf1db266195f77"
+    },
+    {
+      "title": "BannerContent",
+      "url": "https://ads.vk.ru/doc/api/object/BannerContent",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "7b309c616453ac6d858f7ea05ebf313193c166a47ac8958c4facc86d94e0e0f6"
+    },
+    {
+      "title": "BannerField",
+      "url": "https://ads.vk.ru/doc/api/object/BannerField",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "ad65e8eb598b827f3d90816e19b2ab063abbc8044379938e5242e7d3ea50d7d7"
+    },
+    {
+      "title": "BannerMassAction",
+      "url": "https://ads.vk.ru/doc/api/object/BannerMassAction",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "4d05dbaba6b3fdbf964ab083ec7362aa2930a85f54d6701ee980c41b6b946aad"
+    },
+    {
+      "title": "BannerMassReplace",
+      "url": "https://ads.vk.ru/doc/api/object/BannerMassReplace",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "eb2dbcb9acea0f4df94c0bad23aca9abc5defb9707ceb44545b9dd1a1fec85de"
+    },
+    {
+      "title": "BannerPattern",
+      "url": "https://ads.vk.ru/doc/api/object/BannerPattern",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "6e84b39956ed2054d28264929aa14e9e1177ec5af43d06c1f1d732f32a5f16c6"
+    },
+    {
+      "title": "BirthdayTargeting",
+      "url": "https://ads.vk.ru/doc/api/object/BirthdayTargeting",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "de767956df704e75e1dbce95ecbe511e25d9998e79a9c2205fcde1d0e56048cf"
+    },
+    {
+      "title": "ClientOrdJuridical",
+      "url": "https://ads.vk.ru/doc/api/object/ClientOrdJuridical",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "b3919c19a4079aedbfa2a231cfff38c2d1236c8dcd603a1cf2289dc2d685c84a"
+    },
+    {
+      "title": "ClientOrdPhysical",
+      "url": "https://ads.vk.ru/doc/api/object/ClientOrdPhysical",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "7aa35e21d32f091d8834c841ad5501c481f545bb51758faab0fc2f1db724ccbe"
+    },
+    {
+      "title": "Content",
+      "url": "https://ads.vk.ru/doc/api/object/Content",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "52813a76ac8dc4b964ec396ddce5a3444a81332e38e463b08a6014bce212c747"
+    },
+    {
+      "title": "ContentVariant",
+      "url": "https://ads.vk.ru/doc/api/object/ContentVariant",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "88f0ad2f8bd646b0b2f2c46530ca5829bd473c8323688606e1033ebe589c0d9e"
+    },
+    {
+      "title": "CounterGoal",
+      "url": "https://ads.vk.ru/doc/api/object/CounterGoal",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "941f4370421af8cb810489725f4beae978cb1aff39f58fbf5f1985c6b6bff84c"
+    },
+    {
+      "title": "FulltimeTargeting",
+      "url": "https://ads.vk.ru/doc/api/object/FulltimeTargeting",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "5ca102ce8e4d25d96dc85aa7f796de099c21c1eceae66db66ec717e45397c4fa"
+    },
+    {
+      "title": "GeneratedAuditPixel",
+      "url": "https://ads.vk.ru/doc/api/object/GeneratedAuditPixel",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "20cd6e3d0cbebfc9e4c3d65bd5061883a5ad6a528076e27a4b503bd2e1da5793"
+    },
+    {
+      "title": "GeoTargeting",
+      "url": "https://ads.vk.ru/doc/api/object/GeoTargeting",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "e95070df022c8d09ef0427266921e46eaca7480d49a17c878ec8aff146791549"
+    },
+    {
+      "title": "Goal",
+      "url": "https://ads.vk.ru/doc/api/object/Goal",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "6ecbc3975c97e0e175c7d90ba2b5952b3947853c60fd09b3192df4319dd4dd58"
+    },
+    {
+      "title": "Goals",
+      "url": "https://ads.vk.ru/doc/api/object/Goals",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "2f71b10888d6d53e41ac44bce5d0436971a147124fc6854ce61aaf36829a3db2"
+    },
+    {
+      "title": "GoogleApp",
+      "url": "https://ads.vk.ru/doc/api/object/GoogleApp",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "30de97977872fd1dea2d03cfa62192845892bd9a46b386e0bde000ac67bd0c97"
+    },
+    {
+      "title": "Histogram",
+      "url": "https://ads.vk.ru/doc/api/object/Histogram",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "4ffa9d3ac1569f8ce7108bca58670a1c7b07d283345c9ad8a50a66f7b15fccd8"
+    },
+    {
+      "title": "HistogramBin",
+      "url": "https://ads.vk.ru/doc/api/object/HistogramBin",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "e018dcc797707dab1cae4a05e41016bf30cd12429412df99da13b01d63dd5670"
+    },
+    {
+      "title": "IconImage",
+      "url": "https://ads.vk.ru/doc/api/object/IconImage",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "d82affd215b76179eb8fbcacdc0d2b1efccc17be610fa04aee144d1eed32ee24"
+    },
+    {
+      "title": "InAppEvent",
+      "url": "https://ads.vk.ru/doc/api/object/InAppEvent",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "c198f33f3ed41254a5e4ec4651e425cb93666ab0e7fa3fed8741bbbf07e1cd73"
+    },
+    {
+      "title": "InAppEventCategories",
+      "url": "https://ads.vk.ru/doc/api/object/InAppEventCategories",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "86d04277fd4ca0f27638ef74d0a9e93d1edf003e431c88175d4e29bd48101267"
+    },
+    {
+      "title": "InAppTracker",
+      "url": "https://ads.vk.ru/doc/api/object/InAppTracker",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "c593a218d4e1f956dc1ddea2b6b947e781bce500b93fec4d9c50134226228df8"
+    },
+    {
+      "title": "LeadAnswer",
+      "url": "https://ads.vk.ru/doc/api/object/LeadAnswer",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "1f5a457360adc7090162021632d66fda2457442694d1908e300a2a836c9f41c2"
+    },
+    {
+      "title": "LeadAnswerOption",
+      "url": "https://ads.vk.ru/doc/api/object/LeadAnswerOption",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "3695a7e626714780b034412d56fb274a2c0b6e5446b22f75344a2e310e88f168"
+    },
+    {
+      "title": "LeadContactInfo",
+      "url": "https://ads.vk.ru/doc/api/object/LeadContactInfo",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "dac4e508d2c671b871003cfcfac513fd3a26cb5162d7e8788303a36e6ed5d6fd"
+    },
+    {
+      "title": "LeadForm",
+      "url": "https://ads.vk.ru/doc/api/object/LeadForm",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "d8f102691d79bc3639676c7da1ac216987ab80588d4f01a1703dc943d55841e3"
+    },
+    {
+      "title": "LeadFormAgreement",
+      "url": "https://ads.vk.ru/doc/api/object/LeadFormAgreement",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "d8cae8f419938332cc12f615e662ccd98bdb0d00e82a207c71092a48d1c712e5"
+    },
+    {
+      "title": "LeadFormAgreementTemplateDocument",
+      "url": "https://ads.vk.ru/doc/api/object/LeadFormAgreementTemplateDocument",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "0f972953f44e24e07d7399f4e8c29df50a3cb8364e438e4938579725ce50041c"
+    },
+    {
+      "title": "LeadFormAward",
+      "url": "https://ads.vk.ru/doc/api/object/LeadFormAward",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "b7f8be751dea8d692f21a314405b769b2a00d770166e9d68d16aa13ce374a2db"
+    },
+    {
+      "title": "LeadFormBlock",
+      "url": "https://ads.vk.ru/doc/api/object/LeadFormBlock",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "2e7796e916675a79002ef176669ad07f0d2660b784b124a84e646e9c9753e324"
+    },
+    {
+      "title": "LeadFormBlockData",
+      "url": "https://ads.vk.ru/doc/api/object/LeadFormBlockData",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "928099c562293d127f8c710939520dd710857e2a0a037a6befd7a1a24affdb80"
+    },
+    {
+      "title": "LeadFormBonus",
+      "url": "https://ads.vk.ru/doc/api/object/LeadFormBonus",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "7ee2f2b7a8b406315cffd0742d6b218f3e709f578d4ce8402cd0d0cc535a8962"
+    },
+    {
+      "title": "LeadFormDiscount",
+      "url": "https://ads.vk.ru/doc/api/object/LeadFormDiscount",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "e8d715506ce42eca0cb2cc4188f5a35eb9e4d883c68a8cd95b11f3727b790154"
+    },
+    {
+      "title": "LeadFormNotification",
+      "url": "https://ads.vk.ru/doc/api/object/LeadFormNotification",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "85a2da527f9aed37965c75d54eccdd713c0a8c9bba87857c2c45f9333db2e795"
+    },
+    {
+      "title": "LeadFormNotificationDestination",
+      "url": "https://ads.vk.ru/doc/api/object/LeadFormNotificationDestination",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "50e95d3f0fda0e092b30ce46c4d8254ae0f78557184ed50267ee91e03dbe7b5d"
+    },
+    {
+      "title": "LeadFormPage",
+      "url": "https://ads.vk.ru/doc/api/object/LeadFormPage",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "5e9c4e2a110b44dcd83c8d25907ba351a8e65803a080136b023b548f2750c4e2"
+    },
+    {
+      "title": "LeadFormPromoCode",
+      "url": "https://ads.vk.ru/doc/api/object/LeadFormPromoCode",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "30d567fdff9bcdf7dcba723b864bfe13850240ea5850769dc70f4b01fe7cd7b9"
+    },
+    {
+      "title": "LeadFormQuestion",
+      "url": "https://ads.vk.ru/doc/api/object/LeadFormQuestion",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "0210ae63f58d49158fcf40f5b322249dcc5d460505eb129b4143315c5d201355"
+    },
+    {
+      "title": "LeadFormQuestionAnswer",
+      "url": "https://ads.vk.ru/doc/api/object/LeadFormQuestionAnswer",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "131c6daa155649c2e797f23ad51a45b93d841000fb05bfb0ea6e9ce985ed7ef7"
+    },
+    {
+      "title": "LeadFormResultInfo",
+      "url": "https://ads.vk.ru/doc/api/object/LeadFormResultInfo",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "eb505f36c85dd273fd7046bb66c60e511eb706980887ba5402c8596b380a135b"
+    },
+    {
+      "title": "LeadFormsListElement",
+      "url": "https://ads.vk.ru/doc/api/object/LeadFormsListElement",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "2559aafa6df22796c800be152fc106dbd4a2f95fdb81c3c7124ea70250d25e5a"
+    },
+    {
+      "title": "LeadsListElement",
+      "url": "https://ads.vk.ru/doc/api/object/LeadsListElement",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "51037f3cb51572c95e8f1e3f95c56f7a8f10cffb313a17dc9930f11c30d6eb32"
+    },
+    {
+      "title": "LocalGeo",
+      "url": "https://ads.vk.ru/doc/api/object/LocalGeo",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "8ec0de7e3f1bac3e592796f868d644c508b790768fff665b7659e1d51c00c213"
+    },
+    {
+      "title": "LocalGeoPoint",
+      "url": "https://ads.vk.ru/doc/api/object/LocalGeoPoint",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "2f1e921f0873b2ed5ac34bb5a3a690a1f989f4447f406bf014142bda49417f4f"
+    },
+    {
+      "title": "LocalGeoPointTargeting",
+      "url": "https://ads.vk.ru/doc/api/object/LocalGeoPointTargeting",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "1c37d0e4de0a7ac54ffb8a4689d4ade9f10160011cfd6942d3673329ab1b62ea"
+    },
+    {
+      "title": "LocalGeoTargeting",
+      "url": "https://ads.vk.ru/doc/api/object/LocalGeoTargeting",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "3617e766454ae620e9a23730d9f4b09d067cf4307836b40b96730a7f39fb1aa8"
+    },
+    {
+      "title": "MailingType",
+      "url": "https://ads.vk.ru/doc/api/object/MailingType",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "ab1a286692e54ee97c987bc44094f929c7f971f1784841df11e3509cf28173e4"
+    },
+    {
+      "title": "ManagerClientInfo",
+      "url": "https://ads.vk.ru/doc/api/object/ManagerClientInfo",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "d8d246ba864644333e96fd835cf252b6912e7f658bf525e7ce739cd369338a33"
+    },
+    {
+      "title": "MobileApps",
+      "url": "https://ads.vk.ru/doc/api/object/MobileApps",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "f41a7c072f979882009dba46efea7ebdfbeb4f4239fdbe8beb08f0f08ca6b012"
+    },
+    {
+      "title": "MobileCategory",
+      "url": "https://ads.vk.ru/doc/api/object/MobileCategory",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "f76fb549bbd9f8bd7bb53e93e03602c8e424f78f61ce70cfd2e5aded5881f40c"
+    },
+    {
+      "title": "MobileOperatingSystemsSkAdNetworkTargeting",
+      "url": "https://ads.vk.ru/doc/api/object/MobileOperatingSystemsSkAdNetworkTargeting",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "175fe02891dbae18b3cde53a5672071a2a5dafff8da947a5b3288b89c430ae77"
+    },
+    {
+      "title": "MobileOperationSystem",
+      "url": "https://ads.vk.ru/doc/api/object/MobileOperationSystem",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "678ea202a691d1960a2f43d9363b58d8dbbfbcf51d0ab4475f21c3b5a9494ab6"
+    },
+    {
+      "title": "MobileOperator",
+      "url": "https://ads.vk.ru/doc/api/object/MobileOperator",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "450e4c94ce37018f3a71aedae3942aa4b887968af81b7f6f613821b3051207ce"
+    },
+    {
+      "title": "MobileTypes",
+      "url": "https://ads.vk.ru/doc/api/object/MobileTypes",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "3d282147ef55a9ce6d9a8bb6c080293721919876e2d022407323d4cf7095d26e"
+    },
+    {
+      "title": "MobileVendors",
+      "url": "https://ads.vk.ru/doc/api/object/MobileVendors",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "4d201c9f8d2f2d690e6c63eb9bfa0714da79c6ca41db14add4c6a64a2e7925f2"
+    },
+    {
+      "title": "ModerationReason",
+      "url": "https://ads.vk.ru/doc/api/object/ModerationReason",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "92a43195f7db429232c9855b6125a2765fb04ab30d2bb93785ea8746f371200c"
+    },
+    {
+      "title": "NestedUser",
+      "url": "https://ads.vk.ru/doc/api/object/NestedUser",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "f79fb94d55878aa4d1454ddfdb856a0e3bd70a92c79ce7debb4f6b038b05c532"
+    },
+    {
+      "title": "OrdSubAgent",
+      "url": "https://ads.vk.ru/doc/api/object/OrdSubAgent",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "1d24f9d9668e1f7174f1c5ce2237068076a5e1909a1f2dac25ef66036388c68e"
+    },
+    {
+      "title": "OrdUser",
+      "url": "https://ads.vk.ru/doc/api/object/OrdUser",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "cbc72ad3ee6d73d61daf92bb8c44bfc44e93e575a0c2181b776e12342e5c320d"
+    },
+    {
+      "title": "Package",
+      "url": "https://ads.vk.ru/doc/api/object/Package",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "2b550cccee07e9c23b9fdc91dc369ce2768f0be319e47b2d60acf6075576fbf5"
+    },
+    {
+      "title": "PackagePad",
+      "url": "https://ads.vk.ru/doc/api/object/PackagePad",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "6ed10f5dede73651906b013f43dd9ee59bd147b1ef2396bcfb7bfab3362dce66"
+    },
+    {
+      "title": "PadCategoryTargeting",
+      "url": "https://ads.vk.ru/doc/api/object/PadCategoryTargeting",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "ed81937091cd8755e4d579b3e268b8adb8845b63012d8a867123c00cfe76a2be"
+    },
+    {
+      "title": "PadsTree",
+      "url": "https://ads.vk.ru/doc/api/object/PadsTree",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "c746dd5f074484c2a43f8c24248ebfa9c6dd0ff359279a35c11869c587a77e0f"
+    },
+    {
+      "title": "Partner",
+      "url": "https://ads.vk.ru/doc/api/object/Partner",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "6c7dcd9b459adb260e36be5c2d0913dd7453d9a828af446b7752b4c9662f2620"
+    },
+    {
+      "title": "PredictedRate",
+      "url": "https://ads.vk.ru/doc/api/object/PredictedRate",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "ce69ced75fdd9faf7e049473226e2a7acfc9b8e08731cca43b7c7a25f7f0f2a4"
+    },
+    {
+      "title": "PricedGoal",
+      "url": "https://ads.vk.ru/doc/api/object/PricedGoal",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "427c7a695718857398f0f096ceda49c64b741d03fbcc6f1d22ad3db099b2f2a3"
+    },
+    {
+      "title": "ProjectionPrediction",
+      "url": "https://ads.vk.ru/doc/api/object/ProjectionPrediction",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "ce7bc07e0e34b4dc05218918406f3eaa1d0e5f0c5377c82da5d3c3d403c3b376"
+    },
+    {
+      "title": "ProjectionTargetings",
+      "url": "https://ads.vk.ru/doc/api/object/ProjectionTargetings",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "41e95274f9cfc19279a6026711a680870429aaf904f0668900ac9ab638a3723e"
+    },
+    {
+      "title": "Region",
+      "url": "https://ads.vk.ru/doc/api/object/Region",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "e5ce3ca00f8bfaf162ebaca09cc6e0770f52fd4882c655262138c2f64c4a73da"
+    },
+    {
+      "title": "RemarketingCounter",
+      "url": "https://ads.vk.ru/doc/api/object/RemarketingCounter",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "9dac89b864ee0c90d0aab10cee0913e4e78190e5540e406e6179cdf5098da380"
+    },
+    {
+      "title": "RemarketingCounterGoal",
+      "url": "https://ads.vk.ru/doc/api/object/RemarketingCounterGoal",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "f9498c3aee8aba03654a4699f85e1cdf4e89686bb568366ce0aa6a1a1ac402b5"
+    },
+    {
+      "title": "RemarketingCounterUser",
+      "url": "https://ads.vk.ru/doc/api/object/RemarketingCounterUser",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "d1132229d7311cb933e78138d240516e81be635523a96ba98b7ef97a0a557704"
+    },
+    {
+      "title": "RemarketingInAppEvent",
+      "url": "https://ads.vk.ru/doc/api/object/RemarketingInAppEvent",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "5726df587d22b397846c302cb6f2a65056ed0c71ea43aad842465d3a08f4ae44"
+    },
+    {
+      "title": "RemarketingInAppEventCount",
+      "url": "https://ads.vk.ru/doc/api/object/RemarketingInAppEventCount",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "3db2ba5669a1ee7650c6d8ed915c58671ede799d32a73664cc659df3e69dd70a"
+    },
+    {
+      "title": "RemarketingInAppEventCountDate",
+      "url": "https://ads.vk.ru/doc/api/object/RemarketingInAppEventCountDate",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "3ae4faa1c837ba2ae8f5862577b25bc951df8d88f30762f4c335798bdd39e2b2"
+    },
+    {
+      "title": "RemarketingOfflineGoal",
+      "url": "https://ads.vk.ru/doc/api/object/RemarketingOfflineGoal",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "4d29b0bd145d78a3f60e70bfbe90f282765cb1fc820417b4d0ffc92ce8183671"
+    },
+    {
+      "title": "RemarketingPricelist",
+      "url": "https://ads.vk.ru/doc/api/object/RemarketingPricelist",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "c18d390b51c6435bf95c2260336702398c76634956b7d077c7b8aba19f0b8a3c"
+    },
+    {
+      "title": "RemarketingPricelistUser",
+      "url": "https://ads.vk.ru/doc/api/object/RemarketingPricelistUser",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "92ae4e5c19cc15792458c22657e5c375a8efe49f8f87c109bbc71337c211d0b7"
+    },
+    {
+      "title": "RemarketingUsersList",
+      "url": "https://ads.vk.ru/doc/api/object/RemarketingUsersList",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "525665a06544812e683fb69fdd8b00e48d6cea4323c9322e8b0d2207e741339f"
+    },
+    {
+      "title": "RemarketingUsersListHistory",
+      "url": "https://ads.vk.ru/doc/api/object/RemarketingUsersListHistory",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "bacf3d880b63dbbb02f1a8c7528c690bcc28ff51bdc71cc7b7129820da5a41f6"
+    },
+    {
+      "title": "RemarketingUsersListUser",
+      "url": "https://ads.vk.ru/doc/api/object/RemarketingUsersListUser",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "09b6647b8cd3aa97f7d365b13e26227af08ba751bb3d4b2756dcabb7ddbd47da"
+    },
+    {
+      "title": "RespondentAnswer",
+      "url": "https://ads.vk.ru/doc/api/object/RespondentAnswer",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "4a1b2fa944359165f97ef7c1c4855bbb92a45b2fdd6f270e6531f72154ef3207"
+    },
+    {
+      "title": "RespondentAnswerOption",
+      "url": "https://ads.vk.ru/doc/api/object/RespondentAnswerOption",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "e1ffd6c8c1999b8af5dd168661273f611d816861dfc6e9e463ba1d3d599995c8"
+    },
+    {
+      "title": "RespondentsListElement",
+      "url": "https://ads.vk.ru/doc/api/object/RespondentsListElement",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "33763dbc5c9fef925f90f05ad51b421b5deafb20fded194d0995e6c291429b40"
+    },
+    {
+      "title": "Segment",
+      "url": "https://ads.vk.ru/doc/api/object/Segment",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "4f1a7ca22df7115ed569a82cfb83d1a2b885cdbbca3f502d0e1c595ca49aed68"
+    },
+    {
+      "title": "SegmentRelation",
+      "url": "https://ads.vk.ru/doc/api/object/SegmentRelation",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "45f2e93093824b35a0bd30a2bd06c3881b02c29cb643e58eb2fba9bb436d7fd5"
+    },
+    {
+      "title": "SegmentUser",
+      "url": "https://ads.vk.ru/doc/api/object/SegmentUser",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "042743f6d16123b89c44cce14d3c1d0d03d370ed5d596a06fef285e67f76efbe"
+    },
+    {
+      "title": "SharingKey",
+      "url": "https://ads.vk.ru/doc/api/object/SharingKey",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "4a0c048aa04bc5592651688eed2622262e952450d9cfb2eeef3d1e83f983b301"
+    },
+    {
+      "title": "SharingKeySource",
+      "url": "https://ads.vk.ru/doc/api/object/SharingKeySource",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "3e701be28924c17e22b0ae3ac22b435a208cf9ee3351dce57d2023ac07108cd7"
+    },
+    {
+      "title": "SharingKeyUser",
+      "url": "https://ads.vk.ru/doc/api/object/SharingKeyUser",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "70dc4137fbe22bbf42ec2ffc5e80d18818d2298c5a8c977de0064fbb95068894"
+    },
+    {
+      "title": "SkAdNetworkIdentityShare",
+      "url": "https://ads.vk.ru/doc/api/object/SkAdNetworkIdentityShare",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "21159ac9bfa05120194564f64e76c90ac7bfee3b0761fea0b9c26a7872713dc9"
+    },
+    {
+      "title": "SkAdNetworkIdsCounts",
+      "url": "https://ads.vk.ru/doc/api/object/SkAdNetworkIdsCounts",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "45628f75959aa4bae1bba1d5fb9494a3ef1a8768b69d185cb3c6b3b144217f6e"
+    },
+    {
+      "title": "Subscription",
+      "url": "https://ads.vk.ru/doc/api/object/Subscription",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "26049113bcb51f7242eb7c13ff1ee331ee4d26732c29993d73d74e485c1bc568"
+    },
+    {
+      "title": "Survey",
+      "url": "https://ads.vk.ru/doc/api/object/Survey",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "11cdca45676e160c7bcbdacfb45478abc43fa54c82c29545e79c19345d7ccf38"
+    },
+    {
+      "title": "SurveyBlock",
+      "url": "https://ads.vk.ru/doc/api/object/SurveyBlock",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "fc3352783cdefb62f9f456f6d5d7c387155c438b19b2b8bd57be04352a05023f"
+    },
+    {
+      "title": "SurveyBlockData",
+      "url": "https://ads.vk.ru/doc/api/object/SurveyBlockData",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "4da7f38a78e88a6b755af8952f79b3fd38d68786370bf20735400fe934313e1a"
+    },
+    {
+      "title": "SurveyCondition",
+      "url": "https://ads.vk.ru/doc/api/object/SurveyCondition",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "9c4299b37274a5760a286df945d168d1fccd71dd0a603ed127cd48f9fe836df3"
+    },
+    {
+      "title": "SurveyConditionAnswerExists",
+      "url": "https://ads.vk.ru/doc/api/object/SurveyConditionAnswerExists",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "4aee2680ba2799c169d602f5e2f4c8f7a6902c81ef6a5ca249445661b130ed19"
+    },
+    {
+      "title": "SurveyConditionOr",
+      "url": "https://ads.vk.ru/doc/api/object/SurveyConditionOr",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "f0f4822996b6b4917226e37541e9c125e76218ab044717485cbc7f3512cfddbd"
+    },
+    {
+      "title": "SurveyPage",
+      "url": "https://ads.vk.ru/doc/api/object/SurveyPage",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "ef3c094d59c0139ecf2ce2863ecfa8a250e2a20e8b6eef7d6ec5a445aa00fab4"
+    },
+    {
+      "title": "SurveyQuestion",
+      "url": "https://ads.vk.ru/doc/api/object/SurveyQuestion",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "e0c0dfe9b624bb084e7f44fe79c4aec52d0f2c5a574adb3aaa61338bd82b5b98"
+    },
+    {
+      "title": "SurveyQuestionAnswer",
+      "url": "https://ads.vk.ru/doc/api/object/SurveyQuestionAnswer",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "35e87ce998d73bee7eb195b16b80f314596926383adaad1c7bba3720b27924e8"
+    },
+    {
+      "title": "SurveyQuestionScale",
+      "url": "https://ads.vk.ru/doc/api/object/SurveyQuestionScale",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "0cfd16dbefb69724a18cbd8f34151093dedc724f1557123c201446e787fa909a"
+    },
+    {
+      "title": "SurveyResultInfo",
+      "url": "https://ads.vk.ru/doc/api/object/SurveyResultInfo",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "4d4c48ce3d97779015796d46f32b39b35e2925ba83c43fab652ec715cbb3cb2a"
+    },
+    {
+      "title": "SurveyResultInfoNegative",
+      "url": "https://ads.vk.ru/doc/api/object/SurveyResultInfoNegative",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "fc5da3b9c2e7fe665bcb394c3c0a384a6d7533230ab5c3b796649592e0d5f0bc"
+    },
+    {
+      "title": "SurveyResultInfoPositive",
+      "url": "https://ads.vk.ru/doc/api/object/SurveyResultInfoPositive",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "c6b4077e19284751a9f3f00f133a8a50235ab372106ebc9eb5362eaa77d73f65"
+    },
+    {
+      "title": "SurveysListElement",
+      "url": "https://ads.vk.ru/doc/api/object/SurveysListElement",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "77136f03ee05a8c24926626a124a99815d8627f63bc1b2cc06cffb56ccfc9238"
+    },
+    {
+      "title": "Targetings",
+      "url": "https://ads.vk.ru/doc/api/object/Targetings",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "7f282125877378ed2e2b10e6627d4668431e6ae06588719e5fc8b55cb1b26ac1"
+    },
+    {
+      "title": "TargetingsMassAction",
+      "url": "https://ads.vk.ru/doc/api/object/TargetingsMassAction",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "fa1d5c40d693d85c1926bea18c37761aa5b3904d192e3e321b7d5e749cbb907e"
+    },
+    {
+      "title": "TargetingsTree",
+      "url": "https://ads.vk.ru/doc/api/object/TargetingsTree",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "875d84dfd7bbd11dd82424cc32663f68ebaf08222bcbbca2b6aa6900a1b1498e"
+    },
+    {
+      "title": "TargetingsTreeElement",
+      "url": "https://ads.vk.ru/doc/api/object/TargetingsTreeElement",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "bc6f11fc0a2c15292e9d6018ac0bf992a2ed6c9130cf7be98d30d14397a30aa7"
+    },
+    {
+      "title": "Textblock",
+      "url": "https://ads.vk.ru/doc/api/object/Textblock",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "6af24d48b3a1e8651287f73c83ac0e6acad93f3647d4c6fa8ec6afda1ef5bd8e"
+    },
+    {
+      "title": "Transaction",
+      "url": "https://ads.vk.ru/doc/api/object/Transaction",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "d9211bed5e00b66354c6a3c057836fc19ac9674c3186d22a32fcd329ca048651"
+    },
+    {
+      "title": "TransactionGroup",
+      "url": "https://ads.vk.ru/doc/api/object/TransactionGroup",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "51e2bcac12452690ad4935665060138ef5dcca1ed3e4dab93b94af52bb1ab86c"
+    },
+    {
+      "title": "URL",
+      "url": "https://ads.vk.ru/doc/api/object/URL",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "2c982e205533c4f5a10705eac3a753cd7bc67187cdaff7e5d0c6c8f1f909e5b4"
+    },
+    {
+      "title": "Urls",
+      "url": "https://ads.vk.ru/doc/api/object/Urls",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "2e3d400e72b5932604c181f335616cb5f6301455981fede3790155babccf7603"
+    },
+    {
+      "title": "User",
+      "url": "https://ads.vk.ru/doc/api/object/User",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "c351861b5b9e03e1222920cca4e0d70a3b43f8a51bbc276a1c046ba141e0826c"
+    },
+    {
+      "title": "UserAccount",
+      "url": "https://ads.vk.ru/doc/api/object/UserAccount",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "573b6a2ced6d15e03ece09761c500cef78b84d3caba98d4e307a019b10316826"
+    },
+    {
+      "title": "UserAgency",
+      "url": "https://ads.vk.ru/doc/api/object/UserAgency",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "fe5196bc1b111e854b4a62873592fe6e841b407b431ca2a89297a58d4b031712"
+    },
+    {
+      "title": "UserClient",
+      "url": "https://ads.vk.ru/doc/api/object/UserClient",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "881affd2390f1016729605669de02d559099876ea05a26ef71eab0f8daa83ad9"
+    },
+    {
+      "title": "UserEmailSettings",
+      "url": "https://ads.vk.ru/doc/api/object/UserEmailSettings",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "243c50c7e57625667976b303213cae6d3f406258ecac91614e779d8ed1b9b2a5"
+    },
+    {
+      "title": "UserGeo",
+      "url": "https://ads.vk.ru/doc/api/object/UserGeo",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "82bbc3cc5dabdb0f09ba76b341005880392ea98b29860d5c79958b2ba762c6a0"
+    },
+    {
+      "title": "UserManager",
+      "url": "https://ads.vk.ru/doc/api/object/UserManager",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "66a1e6e70fb871ffd6f17607dacf85bfd6807ae371a027e28471b0ee2cfcbcfa"
+    },
+    {
+      "title": "UserManagerClient",
+      "url": "https://ads.vk.ru/doc/api/object/UserManagerClient",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "8118e263538185b552c626d9f6e94b25827e83c353b5180206985abb7f8f6a36"
+    },
+    {
+      "title": "UserRegions",
+      "url": "https://ads.vk.ru/doc/api/object/UserRegions",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "8bf4abb93a8253130a6a4cfe6db5202c664d5f9b670e13a4f5f10a8ad89bb51d"
+    },
+    {
+      "title": "UserSegment",
+      "url": "https://ads.vk.ru/doc/api/object/UserSegment",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "19a7d8e45856d2c183b0513520628bc367883741c8aa6da91fae3c4adb0c3dc3"
+    },
+    {
+      "title": "VkGroup",
+      "url": "https://ads.vk.ru/doc/api/object/VkGroup",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "ecd3c6c4202dd20c62bdcde89ac32b81ffda33710863d31406c6f9b63596e4ce"
+    },
+    {
+      "title": "AdGroup",
+      "url": "https://ads.vk.ru/doc/api/resource/AdGroup",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "0cf3372f5ccafabeb522abc1c98d1b234e08f4ade8423e922c8fbc338a53ef6d"
+    },
+    {
+      "title": "AdGroupMassAction",
+      "url": "https://ads.vk.ru/doc/api/resource/AdGroupMassAction",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "2b53a745c9488393b19bdc265475a110e138658f7290292b3a28c41495deb647"
+    },
+    {
+      "title": "AdGroups",
+      "url": "https://ads.vk.ru/doc/api/resource/AdGroups",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "c500829a7529df98583d349889e86d8dd593f182e4645363ff444a2819ed650e"
+    },
+    {
+      "title": "AdPlan",
+      "url": "https://ads.vk.ru/doc/api/resource/AdPlan",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "405ab94b79d3e1bd8160bdbe9a625c4d9ce60a9c0806c570199abf9999c8933f"
+    },
+    {
+      "title": "AdPlanMassAction",
+      "url": "https://ads.vk.ru/doc/api/resource/AdPlanMassAction",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "fbea274dfb552393305ba5a0ebb7930e387bb7dd45ec5bf43a831d07aaa0c857"
+    },
+    {
+      "title": "AdPlans",
+      "url": "https://ads.vk.ru/doc/api/resource/AdPlans",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "56f2c2d73d0cb25da54578f0d087d3820a32d7278daf2fe6cd5b05986f5c3a74"
+    },
+    {
+      "title": "AgencyClient",
+      "url": "https://ads.vk.ru/doc/api/resource/AgencyClient",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "d37253dd052defaf10bf45bff0dcfa2adb9f8558df6ff774bb44f09d32847c73"
+    },
+    {
+      "title": "AgencyClients",
+      "url": "https://ads.vk.ru/doc/api/resource/AgencyClients",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "be476ca6710ff8803dc0e3fca5b0b7ca5eda2188d68c88498283029a99379ee8"
+    },
+    {
+      "title": "AgencyManagerClient",
+      "url": "https://ads.vk.ru/doc/api/resource/AgencyManagerClient",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "c201bb89512e630978f9a531f5d8fa93a962db5ae9e6fba650ea375f2d7b22b0"
+    },
+    {
+      "title": "AppleApp",
+      "url": "https://ads.vk.ru/doc/api/resource/AppleApp",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "bf8c01f2b647a5252515f27dfbd4c7e8a7545f0103b3916fae2e55b2f66985a6"
+    },
+    {
+      "title": "AuditPixelCheck",
+      "url": "https://ads.vk.ru/doc/api/resource/AuditPixelCheck",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "4e36be25f5980932feb04485547cb9e8bca8de21baa6af3ff17ce78c6bae2c2f"
+    },
+    {
+      "title": "Banner",
+      "url": "https://ads.vk.ru/doc/api/resource/Banner",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "33c799d7eda2d658cdaf200eea33caf38950ca048699237bdc03ce7b3c7ee7be"
+    },
+    {
+      "title": "BannerFields",
+      "url": "https://ads.vk.ru/doc/api/resource/BannerFields",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "c8ed03e9d4d50eb0a8d8c702787fab7ed22023e264f76111e7eb84d49113cb8b"
+    },
+    {
+      "title": "BannerMassAction",
+      "url": "https://ads.vk.ru/doc/api/resource/BannerMassAction",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "a494fa8a332e98fe0f43371421f852fe378cd232ea88bb855ffa3d8605ae0555"
+    },
+    {
+      "title": "BannerPatterns",
+      "url": "https://ads.vk.ru/doc/api/resource/BannerPatterns",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "449cd333b4d2140b0249cbe4260dc9406fe59cd895e8574d528f9cb16ab3bde0"
+    },
+    {
+      "title": "BannerRemoderation",
+      "url": "https://ads.vk.ru/doc/api/resource/BannerRemoderation",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "366a6178e9a7d6c5ab6e28f9eefa83293336ab400b7afc0b9dd9e4fbc0dc799d"
+    },
+    {
+      "title": "Banners",
+      "url": "https://ads.vk.ru/doc/api/resource/Banners",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "df395622c2fa24e914ff44f3aec9319a601077c70a8d14113a0e1fc5cf867853"
+    },
+    {
+      "title": "Content",
+      "url": "https://ads.vk.ru/doc/api/resource/Content",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "7784a962b6fc8d45ae09cf695a2bcf78632a042b8ed7e2274660e56251f6d3fd"
+    },
+    {
+      "title": "CounterGoal",
+      "url": "https://ads.vk.ru/doc/api/resource/CounterGoal",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "2a039a30e8feea2a0ebc14fd744a29dbba6b2fedffc3ec149f5c48efdf133ea3"
+    },
+    {
+      "title": "CounterGoals",
+      "url": "https://ads.vk.ru/doc/api/resource/CounterGoals",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "55fb2c93b504d49e0fbcb9eed10bc25d4ddc2dbeff3d2dd9c538f68c7fd015ae"
+    },
+    {
+      "title": "CreateUrl",
+      "url": "https://ads.vk.ru/doc/api/resource/CreateUrl",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "e8cea5f50671459b61fa0720a22e7bf45e3454066116b7c44a1d91e2ae5cf96c"
+    },
+    {
+      "title": "Goals",
+      "url": "https://ads.vk.ru/doc/api/resource/Goals",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "1e105d5bfeee6a2f755e34ab3a7d6616ed717507609a292014eb1b1633bb271b"
+    },
+    {
+      "title": "GoogleApp",
+      "url": "https://ads.vk.ru/doc/api/resource/GoogleApp",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "e1aa7f340ddc99e6e4c4c9ca6552d80bd5590f1366987851d77bf60cf9cc3650"
+    },
+    {
+      "title": "InAppEvent",
+      "url": "https://ads.vk.ru/doc/api/resource/InAppEvent",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "f305225fb0551b5b132b0bddf97f8b21b68cbecbe6bad1d8d34ace7b0a4060ca"
+    },
+    {
+      "title": "InAppEventCategories",
+      "url": "https://ads.vk.ru/doc/api/resource/InAppEventCategories",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "ce6f884440634ae3fb5a14345071848723eab44dce75f91ad653b1c10ca0daec"
+    },
+    {
+      "title": "LeadForm",
+      "url": "https://ads.vk.ru/doc/api/resource/LeadForm",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "06abe030cc0c92f9737f41963cc6276e3a6425f91d66c3d9ed85828688929df9"
+    },
+    {
+      "title": "LeadFormArchivation",
+      "url": "https://ads.vk.ru/doc/api/resource/LeadFormArchivation",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "7e69b4f14d33b77cdae5c2818f925e61107c8c2e2a1e89b03e08d030ea46dd9d"
+    },
+    {
+      "title": "LeadFormCopy",
+      "url": "https://ads.vk.ru/doc/api/resource/LeadFormCopy",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "618c52a1a7cd5b89a709e4e334c71b22225389348220d9910e6211a85e8bd35e"
+    },
+    {
+      "title": "LeadFormImage",
+      "url": "https://ads.vk.ru/doc/api/resource/LeadFormImage",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "af55e6cb2df02c94ddd4b41aa6098ddc48afcfb42ca11164f5ae5707886bb77c"
+    },
+    {
+      "title": "LeadFormLeadsExport",
+      "url": "https://ads.vk.ru/doc/api/resource/LeadFormLeadsExport",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "b015511a40e9aac831c6bf6d38c54baf4765dc195b0a156dc51b2c033458b4f7"
+    },
+    {
+      "title": "LeadFormUnarchivation",
+      "url": "https://ads.vk.ru/doc/api/resource/LeadFormUnarchivation",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "9f6a499948e019337ee5191cbf77455533dfde48e889bfcce2d04a3ae2782fce"
+    },
+    {
+      "title": "LeadForms",
+      "url": "https://ads.vk.ru/doc/api/resource/LeadForms",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "42034354aa11389b70c03706dc42b5553d42daef3513871986e29961d56db45d"
+    },
+    {
+      "title": "Leads",
+      "url": "https://ads.vk.ru/doc/api/resource/Leads",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "185fba4da848d42b34acfcccad5a7430452282064bce52057fb51490571097e8"
+    },
+    {
+      "title": "LocalGeo",
+      "url": "https://ads.vk.ru/doc/api/resource/LocalGeo",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "3ecb5b0250aaad3febce0a8bcd81309a42db8a639f6f80e702e683a966701c75"
+    },
+    {
+      "title": "LocalGeos",
+      "url": "https://ads.vk.ru/doc/api/resource/LocalGeos",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "a59529f5b2d5b5b5f4442c9dad4dd759c7b21f8ec2ab9c0855cb7af784b3b9d7"
+    },
+    {
+      "title": "ManagerClients",
+      "url": "https://ads.vk.ru/doc/api/resource/ManagerClients",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "bb8f6c30ba83c1362de33c77d1205630d053344d200322856191e0079429462a"
+    },
+    {
+      "title": "MobileApps",
+      "url": "https://ads.vk.ru/doc/api/resource/MobileApps",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "a84444e3203df9207b744302759f09774a0eaae711b96c0af31985feba3218f7"
+    },
+    {
+      "title": "MobileCategory",
+      "url": "https://ads.vk.ru/doc/api/resource/MobileCategory",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "87b0937b81839c455010bf4db79a8c1635ae57ae8e2f75b24f27439d8b6c9337"
+    },
+    {
+      "title": "MobileOperationSystem",
+      "url": "https://ads.vk.ru/doc/api/resource/MobileOperationSystem",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "4def051f2f6b9727f4683b96b0623722bc5d445b7aa9dcbf1f53770b113b54e8"
+    },
+    {
+      "title": "MobileOperator",
+      "url": "https://ads.vk.ru/doc/api/resource/MobileOperator",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "a60c01fc364acd081536ac9dd5603f18342de1767c628c4f595ead2b9dce3f6c"
+    },
+    {
+      "title": "MobileTypes",
+      "url": "https://ads.vk.ru/doc/api/resource/MobileTypes",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "e82aa17173273c091349a6a6fa9afe0721d419caeb5f3a7badd9cd381835c244"
+    },
+    {
+      "title": "MobileVendors",
+      "url": "https://ads.vk.ru/doc/api/resource/MobileVendors",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "1d1cf6b29b4d021d76b1b28374a2ea8eed14acc473683a4193f8657b9f94095c"
+    },
+    {
+      "title": "OfferBatchTaskCreate",
+      "url": "https://ads.vk.ru/doc/api/resource/OfferBatchTaskCreate",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "3a2978af5437595f84d946c251bf7743b9d269a78276775cbf5e0bfa7759ada7"
+    },
+    {
+      "title": "OfferBatchTaskDetail",
+      "url": "https://ads.vk.ru/doc/api/resource/OfferBatchTaskDetail",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "5bf8155c0b25651aaf3e57d3c0788deae72df648ba261ffa87dc9ded182b6ea4"
+    },
+    {
+      "title": "OrdAgencyAct",
+      "url": "https://ads.vk.ru/doc/api/resource/OrdAgencyAct",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "93ec89a8dba3370a2d80af4eab89939df52b886ec3742d41e465489b2d587726"
+    },
+    {
+      "title": "OrdAgencyActs",
+      "url": "https://ads.vk.ru/doc/api/resource/OrdAgencyActs",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "cf729a1e5112254f5f831cc708cf7348adc8634006756812585187ae1819e603"
+    },
+    {
+      "title": "OrdAgencyReport",
+      "url": "https://ads.vk.ru/doc/api/resource/OrdAgencyReport",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "bbc7400a900ff5a09e2d8ed729b4d65bc42f6da3c4668e215e6c627fa64279ad"
+    },
+    {
+      "title": "OrdAgencyStatus",
+      "url": "https://ads.vk.ru/doc/api/resource/OrdAgencyStatus",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "5e88d3626f3551c59f170e1eeedc93ad0a8f535314917d469932db8fadfabb1e"
+    },
+    {
+      "title": "OrdPartnerActStat",
+      "url": "https://ads.vk.ru/doc/api/resource/OrdPartnerActStat",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "2738db7b2ecf9f87a19ce3e27a44dc818a3342122f3e1398f30cd47c678f387b"
+    },
+    {
+      "title": "OrdPartnerActStatByPadId",
+      "url": "https://ads.vk.ru/doc/api/resource/OrdPartnerActStatByPadId",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "59e3f1ff2f7f935acb291114b1a4bcfa890e19773b72423742bb23bdaa331467"
+    },
+    {
+      "title": "OrdPartnerPad",
+      "url": "https://ads.vk.ru/doc/api/resource/OrdPartnerPad",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "3b8e9d75b80541e54ebad5a400e671d76572c12706eb3c8a937836c7ccc19e21"
+    },
+    {
+      "title": "OrdPartnerPads",
+      "url": "https://ads.vk.ru/doc/api/resource/OrdPartnerPads",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "346810c064c644484f1ec80583c5cfabc3fd8f0c47f9d721f9b555e5a100b4cd"
+    },
+    {
+      "title": "OrdPartnerSubAgent",
+      "url": "https://ads.vk.ru/doc/api/resource/OrdPartnerSubAgent",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "1f237542f54229029ee323b990c5bd79b87a43ad083c5998d78cba81e77af8d0"
+    },
+    {
+      "title": "OrdPartnerSubAgents",
+      "url": "https://ads.vk.ru/doc/api/resource/OrdPartnerSubAgents",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "803fab496579275be4d4422913dd64fb2b9ea6aabc9f3b6355267b215b105e2b"
+    },
+    {
+      "title": "OrdUser",
+      "url": "https://ads.vk.ru/doc/api/resource/OrdUser",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "d499f0a9eb6c12f1bf1a9ec7100d2d8af31f8142f8c30db18359e2bdd1c92fbe"
+    },
+    {
+      "title": "Packages",
+      "url": "https://ads.vk.ru/doc/api/resource/Packages",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "9f0d9013e07654fc017a73c495076b9ace4a66f7eaa53ad2c613e3cbe04a444a"
+    },
+    {
+      "title": "PackagesPads",
+      "url": "https://ads.vk.ru/doc/api/resource/PackagesPads",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "b2f06944b6b7e05d85de0b216c1a1442a8e5bb5dde3f55dfbfdac7eec4011768"
+    },
+    {
+      "title": "PadsTree",
+      "url": "https://ads.vk.ru/doc/api/resource/PadsTree",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "1e49a4dbc55ce2d2e4ea4c955c21af0cdb09dd1e4f3c63858be0710458a07b07"
+    },
+    {
+      "title": "ProjectionPrediction",
+      "url": "https://ads.vk.ru/doc/api/resource/ProjectionPrediction",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "dcfb7b84f104f878a0c09e19dff0ff602d3e45cf727d7b8ffd3ac93d5ca0923c"
+    },
+    {
+      "title": "ReadUrl",
+      "url": "https://ads.vk.ru/doc/api/resource/ReadUrl",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "185fba6ac756e59ab4516afdd4dba4a650d8ea85c44e3e67f0bc94ff9d815489"
+    },
+    {
+      "title": "ReadUrls",
+      "url": "https://ads.vk.ru/doc/api/resource/ReadUrls",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "6b7752a1e93d39de0d967720450350f867e989f22c184a290731f40eb8886b3f"
+    },
+    {
+      "title": "Region",
+      "url": "https://ads.vk.ru/doc/api/resource/Region",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "b69f9875d0d8e5fb82f9b668c05ff8758954fbe92676b3abfbe0025a18b704bf"
+    },
+    {
+      "title": "RemarketingCounter",
+      "url": "https://ads.vk.ru/doc/api/resource/RemarketingCounter",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "ab7e09fd495942a09c334291d3a770b3a97aa679c1a1645e7f73544d08c6d2b6"
+    },
+    {
+      "title": "RemarketingCounters",
+      "url": "https://ads.vk.ru/doc/api/resource/RemarketingCounters",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "49a860a8bdcd3f772260244401ed9c9fbf287ca9c302b045f6cfad345c1f39a7"
+    },
+    {
+      "title": "RemarketingInAppEvents",
+      "url": "https://ads.vk.ru/doc/api/resource/RemarketingInAppEvents",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "2c8451252a97ee50ab054d87fe078983683583dfe7c21ad1a1a82a93b5e2bc8a"
+    },
+    {
+      "title": "RemarketingOfflineGoal",
+      "url": "https://ads.vk.ru/doc/api/resource/RemarketingOfflineGoal",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "f4cc1c0aac8ecd33006a8e0d1ddb9e5824916ace518efd9ea413ba54d8dbd1b7"
+    },
+    {
+      "title": "RemarketingOfflineGoals",
+      "url": "https://ads.vk.ru/doc/api/resource/RemarketingOfflineGoals",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "0656b71c412e91f384757ae022e87a1ba4fe8d6e2b0d2c36547eb56edf71cdc6"
+    },
+    {
+      "title": "RemarketingUsersList",
+      "url": "https://ads.vk.ru/doc/api/resource/RemarketingUsersList",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "db4f2ae67b855ce9dd0e819b9e9db70def6385a8c9b88c29e22f975c85ecc618"
+    },
+    {
+      "title": "RemarketingUsersLists",
+      "url": "https://ads.vk.ru/doc/api/resource/RemarketingUsersLists",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "e6060cbab317cadf1dad765a85e4ea870c69896a2010995e4b5ba045dbb694e5"
+    },
+    {
+      "title": "Respondents",
+      "url": "https://ads.vk.ru/doc/api/resource/Respondents",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "056a8e84fca53d58c2d99ff9ab1f2bafe89f322ed1f73f06626dc41b9822a0e3"
+    },
+    {
+      "title": "Segment",
+      "url": "https://ads.vk.ru/doc/api/resource/Segment",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "a9a068eb55d78c7c8c0c0951c257962c1f8555398912d3ff677e499d90345930"
+    },
+    {
+      "title": "SegmentRelation",
+      "url": "https://ads.vk.ru/doc/api/resource/SegmentRelation",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "a4b85900ea9ea946bdfdfc3fb18a668bea00390ef32df5e8e9f1948c4e911f68"
+    },
+    {
+      "title": "SegmentRelations",
+      "url": "https://ads.vk.ru/doc/api/resource/SegmentRelations",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "e7db67a13cf04f766ab40921c0de7c7a175aa98eed4ace6ad0071291185c0499"
+    },
+    {
+      "title": "SegmentRelationsDelete",
+      "url": "https://ads.vk.ru/doc/api/resource/SegmentRelationsDelete",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "cd04520f66f6424c75e119986732866d7323541ab2b0287a83dbe4c7d9dfdb6d"
+    },
+    {
+      "title": "Segments",
+      "url": "https://ads.vk.ru/doc/api/resource/Segments",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "e35d537fc3e07900f72f4415046584c14c5d7a54e8146c8864dba352451b99b7"
+    },
+    {
+      "title": "SharingKey",
+      "url": "https://ads.vk.ru/doc/api/resource/SharingKey",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "a31590284a2288f2821e9f0333b124d5176b3d981fd753deca9d346d7c3c873d"
+    },
+    {
+      "title": "SharingKeyUser",
+      "url": "https://ads.vk.ru/doc/api/resource/SharingKeyUser",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "d6212afd863b444734e23df387d99bded2c0127431e3f45dea3672da0bc05a87"
+    },
+    {
+      "title": "SkAdNetworkIdentityShare",
+      "url": "https://ads.vk.ru/doc/api/resource/SkAdNetworkIdentityShare",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "5d76405792700c35fba796426bfa59149af04b9476988f63798a0d8eaabf6b52"
+    },
+    {
+      "title": "SkAdNetworkIdentityWithdraw",
+      "url": "https://ads.vk.ru/doc/api/resource/SkAdNetworkIdentityWithdraw",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "9ce35bd9526bf572f358e37985ebc3c1d00c2c4298a3a862683a6cd5241cd16a"
+    },
+    {
+      "title": "Subscription",
+      "url": "https://ads.vk.ru/doc/api/resource/Subscription",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "1da1796cfeedf636dd2244ce35b625fbcdb1e2ad25b9f0057bbb54bda220aa1f"
+    },
+    {
+      "title": "Subscriptions",
+      "url": "https://ads.vk.ru/doc/api/resource/Subscriptions",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "587a22d3a1ea8289da5a2865bbc0e351c2b1db9092d285e8b2ed6d4cc5348bff"
+    },
+    {
+      "title": "Survey",
+      "url": "https://ads.vk.ru/doc/api/resource/Survey",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "a9a883d79e32c03503c3ae3a3ec8a08d49060436676b7e54a427efa12f21abec"
+    },
+    {
+      "title": "SurveyArchivation",
+      "url": "https://ads.vk.ru/doc/api/resource/SurveyArchivation",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "7c73eb7eaf93548a10f7d6f8dd373ce61405dcb2c66dfafaf921966a7a1e02a3"
+    },
+    {
+      "title": "SurveyCopy",
+      "url": "https://ads.vk.ru/doc/api/resource/SurveyCopy",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "ce817424b5cb532f2e04b1ac778f31ada5ebae89c7cbe83cf013f7f4c5f2d346"
+    },
+    {
+      "title": "SurveyRespondentsExport",
+      "url": "https://ads.vk.ru/doc/api/resource/SurveyRespondentsExport",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "50036c7f1611ca99e63529fbb69d889c33154012f2d6d0574956d125c62d2bb0"
+    },
+    {
+      "title": "SurveyUnarchivation",
+      "url": "https://ads.vk.ru/doc/api/resource/SurveyUnarchivation",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "5f8b7b6a0b65f7bd31583f062616442b81f49d86a034f866870c656a9559df5e"
+    },
+    {
+      "title": "Surveys",
+      "url": "https://ads.vk.ru/doc/api/resource/Surveys",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "67bd7484e5159ca59007f2cebc19c7191ac51cd03cc33127b49435a78278d613"
+    },
+    {
+      "title": "TargetingsTree",
+      "url": "https://ads.vk.ru/doc/api/resource/TargetingsTree",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "85968dcdcffbc66a744d19c313d8bfc5ebc2889ca570fdc2c67b3c7ed13497ea"
+    },
+    {
+      "title": "TestLeadSending",
+      "url": "https://ads.vk.ru/doc/api/resource/TestLeadSending",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "93d91e75610eef4755a8efedd404ab566dd89cd22af7782438e762b065aab0d3"
+    },
+    {
+      "title": "Transaction",
+      "url": "https://ads.vk.ru/doc/api/resource/Transaction",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "df071e49005362c63b939b405d5492d6996082bf297c61e422b026c038800843"
+    },
+    {
+      "title": "TransactionGroups",
+      "url": "https://ads.vk.ru/doc/api/resource/TransactionGroups",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "dacdcbc398fcab050efefaf6d8d6e72f58ca89f0896ae1cf59539dde40a704f4"
+    },
+    {
+      "title": "User",
+      "url": "https://ads.vk.ru/doc/api/resource/User",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "49d37df7cc043f1cf0e175ad7902ff4252f0753483041921e9205bd333942d64"
+    },
+    {
+      "title": "UserGeo",
+      "url": "https://ads.vk.ru/doc/api/resource/UserGeo",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "3beb42b7975f97d36e5373eee36613c8ab8a319782b7f24f124008f0cdfabcf0"
+    },
+    {
+      "title": "АвторизацияКак создать новый кабинет, перенести кампании и аудитории из других рекламных кабинетов, удалить аккаунтПодробнее",
+      "url": "https://ads.vk.ru/help/authorization",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "6ce9d2f5e2b566be22bf8d8dc1d974cfe3e816649428d9ff8d0cfa3005589ba0"
+    },
+    {
+      "title": "Мультиаккаунты",
+      "url": "https://ads.vk.ru/help/authorization/additionalaccounts",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "e424693399e54099977afd39d8e0cb34a2264cc904b382b75c7cdc6e6c3488ae"
+    },
+    {
+      "title": "Подключение кабинета к агентству",
+      "url": "https://ads.vk.ru/help/authorization/agency_connection",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "a92760b1ebc596b74e8f882c4f80392d1fcd03ab72e7b85b95358bd6c979e8f6"
+    },
+    {
+      "title": "Агентствам: регистрация кабинета",
+      "url": "https://ads.vk.ru/help/authorization/agency_registration",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "2db04dc39099e3ecc032c205918e74d4066fcf5af7f6322721ec88e1af9d9604"
+    },
+    {
+      "title": "Проблемы со входом в кабинет",
+      "url": "https://ads.vk.ru/help/authorization/authorization_problems",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "a9aa8b3323b77c1762016e4f2c36fb962109678cdf02ba361897b764924ac9d3"
+    },
+    {
+      "title": "Изменение реквизитов в кабинете",
+      "url": "https://ads.vk.ru/help/authorization/change_details",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "b8a98daaa6ed7c2ccf3f82b8d59a6025e514d64a7eca823820ec85eb198f5e6e"
+    },
+    {
+      "title": "Изменение типа кабинета",
+      "url": "https://ads.vk.ru/help/authorization/change_type",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "d387355d8c051bdc525ca4b2846bd4a6c60dd62d3defddbdbf931fe855c5e926"
+    },
+    {
+      "title": "Удаление кабинета",
+      "url": "https://ads.vk.ru/help/authorization/delete_account",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "5d4d9e35833606e430f7e8e5aadaf8c35ed9b19d92181c5d5c37375fada893e1"
+    },
+    {
+      "title": "Ассистент VK Рекламы в MAX",
+      "url": "https://ads.vk.ru/help/authorization/mini_app_max",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "f266a3a45c0c6c557bcca429a3bf01c85c6d71297a2424ecfadbabcab83c285e"
+    },
+    {
+      "title": "Создание нового кабинета, авторизация",
+      "url": "https://ads.vk.ru/help/authorization/new_account",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "e0f6d97a7bdb7eccaf10382779eedd5b66a031f2383f89f96405f9ccd416b6b5"
+    },
+    {
+      "title": "Уведомления в кабинете",
+      "url": "https://ads.vk.ru/help/authorization/notifications",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "04359e60e80c594d67fdd0148047af322292198928d49c8ee46aba4cf2fe0f4f"
+    },
+    {
+      "title": "Обзор кабинета",
+      "url": "https://ads.vk.ru/help/authorization/overview_tab",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "fc3eea3883f0056aabf1933e6051369aaabd9ce261b755f857279cf6f840ef30"
+    },
+    {
+      "title": "Кабинет таргетолога",
+      "url": "https://ads.vk.ru/help/authorization/targetologist_account",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "eabca84c2dc6ccf699d1631e42814e69ece366c14e45d1d9baa0002817f83175"
+    },
+    {
+      "title": "Подключение VK ID",
+      "url": "https://ads.vk.ru/help/authorization/vk_id_connect",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "7a96210342bfa6a07ca4916a7871ccd1aa2a27bdeab453303aa28cc5db51cb4b"
+    },
+    {
+      "title": "ДокументыПравила размещения рекламы, акций и юридические документыПодробнее",
+      "url": "https://ads.vk.ru/help/documents",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "68251fbc2cd60bc295fbf62a5a0e4aa6164b14341bc771add472cc7ecbf41e86"
+    },
+    {
+      "title": "Предвыборная агитация в России",
+      "url": "https://ads.vk.ru/help/documents/election",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "ea071e07066502910640bd1a6fd06f6a2984f81164be5b5eb8c9367d0c5110f1"
+    },
+    {
+      "title": "Правила размещения агитационных материалов",
+      "url": "https://ads.vk.ru/help/documents/election_rules",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "dfb4aa48477b82aa96dc8cee45a13f3f7a4214fc6eb081273156aac817bfd886"
+    },
+    {
+      "title": "Пояснения к Правилам размещения рекламы",
+      "url": "https://ads.vk.ru/help/documents/faq_moderation",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "dc1454e8cccc801102f10a8abaf45af4ee6fc6fe34c2389d0f36279e1d0bba30"
+    },
+    {
+      "title": "Шаблоны гарантийных писем, заявлений, примеры файлов",
+      "url": "https://ads.vk.ru/help/documents/guarantee_template",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "d9fe2d4ffc3ae93bfb0ab4746a6d8ecbad9e5bb9ba330df41423ac812da18879"
+    },
+    {
+      "title": "Юридические документы",
+      "url": "https://ads.vk.ru/help/documents/legal_documents",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "7098232204900496416d855b08bd2c7c864ffc70b797490f0d6a27d87d3fb6ee"
+    },
+    {
+      "title": "Правила размещения рекламы",
+      "url": "https://ads.vk.ru/help/documents/moderation",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "b0d5d5473f0c5af8b69425470d509bb429b40caf44dce0f0845833a2fe22db85"
+    },
+    {
+      "title": "Правила акций",
+      "url": "https://ads.vk.ru/help/documents/promotion_rules",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "ed7ba1521fd4d4a579a574306cfc63153de3535d4efe4a781700604b13f38a3d"
+    },
+    {
+      "title": "Правила акции «15 000 бонусных рублей за открытие счёта»",
+      "url": "https://ads.vk.ru/help/documents/promotion_rules/15000_bonus_rubles",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "7446ee78cc34ef4a370bc28374d7eeb3304a79024b32d000021166ff3b5d4064"
+    },
+    {
+      "title": "Правила акции «До 5 000 бонусов на рекламу»",
+      "url": "https://ads.vk.ru/help/documents/promotion_rules/advertising_bonus",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "0196e09f6fa14694ac551b151933a2e84703539763b370a7a02f33536a8888eb"
+    },
+    {
+      "title": "Архив акций",
+      "url": "https://ads.vk.ru/help/documents/promotion_rules/archive",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "3f3bec20fcc91a18a3b6ac16b16de254168fd5e2c1dbea125138ed2f03fdce0b"
+    },
+    {
+      "title": "Правила акции «BACK TO SUCCESS»",
+      "url": "https://ads.vk.ru/help/documents/promotion_rules/back_to_success",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "0ba47628bf3e16f909e07a8dde9080fd88d9382670a57e4cbbf3513b2b8093e7"
+    },
+    {
+      "title": "Правила акции «Каталог таргетологов VK Рекламы»",
+      "url": "https://ads.vk.ru/help/documents/promotion_rules/catalog_targetologist",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "9a90a96b2a170fea6f448c402f25442f26b50390828af18060f5e1cd4b59f435"
+    },
+    {
+      "title": "Правила акции «Удвоение до 20 000 рублей»",
+      "url": "https://ads.vk.ru/help/documents/promotion_rules/doubling_20k",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "a7450e3eb9b1c817e2ca9e132843bf3afbb64798980d117cffe939ca4ad45110"
+    },
+    {
+      "title": "Правила акции «Премиум-подписка»",
+      "url": "https://ads.vk.ru/help/documents/promotion_rules/first_bonus_and_premium",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "a062e2d7bd3dec9ad6a0e5035ed26efce4d8200dca3425832913ab827028c7aa"
+    },
+    {
+      "title": "Правила акции «Для клиентов Таргенетика»",
+      "url": "https://ads.vk.ru/help/documents/promotion_rules/for_targenetics_clients",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "ed053ec4347e2464e5a3e437c48a19cffcd6252f66f54d2b275e838e6064a2da"
+    },
+    {
+      "title": "Правила акции «Классный старт»",
+      "url": "https://ads.vk.ru/help/documents/promotion_rules/great_start",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "a2d45755a07fce3b01f0d8f7299a8250fa13bee6e3ec5e3674f15b16ecf16165"
+    },
+    {
+      "title": "Правила акции «Привет от VK Рекламы!»",
+      "url": "https://ads.vk.ru/help/documents/promotion_rules/greetings_from_vk_ads",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "8eb84acf63178c4d2c43f93967bc98083403f59283ce1d5443c2543690ea592b"
+    },
+    {
+      "title": "Правила акции «Активности нет предела»",
+      "url": "https://ads.vk.ru/help/documents/promotion_rules/no_limit_to_activity",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "5770f3bb5560f38b08a09896faefc32f629396ef7ef18aa1bfadd8d014bd3958"
+    },
+    {
+      "title": "Правила акции «OZON»",
+      "url": "https://ads.vk.ru/help/documents/promotion_rules/ozon",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "fee64897380bf02756cb22e31eeedf8ce835d8b10040fb7e07af7147fd6dc341"
+    },
+    {
+      "title": "Правила акции «Выгодный автоплатеж»",
+      "url": "https://ads.vk.ru/help/documents/promotion_rules/profitable_autopayment",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "8950af5bc77d867189b86c648376fe7674f9e2e3b1ca9d47fba1ea8159b3ab00"
+    },
+    {
+      "title": "Правила акции «Новый автор»",
+      "url": "https://ads.vk.ru/help/documents/promotion_rules/promo_blogger_day",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "3e06afad51bc5d00fe6645eef3649f9312a9a8a7357504bb97630a51d156b866"
+    },
+    {
+      "title": "Правила акции «Выгодная лояльность»",
+      "url": "https://ads.vk.ru/help/documents/promotion_rules/rewarding_loyalty",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "283e8de25befad00af5327b76622414852869f4b53cb0c9d730d7dbc9f876e7b"
+    },
+    {
+      "title": "Правила акции «VK Реклама рада вам!»",
+      "url": "https://ads.vk.ru/help/documents/promotion_rules/summer_hello",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "a9b493e8c1b8ab7ccfc8207c5d03ea0e8ffa4b055998da94e2c03016b2f41bfb"
+    },
+    {
+      "title": "Правила акции «Лето со СБЕРом»",
+      "url": "https://ads.vk.ru/help/documents/promotion_rules/summer_with_sber",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "115c41d7f757fa8d7093d46096178655f13be0d4681bd4ac7f1e713ad8e76ce6"
+    },
+    {
+      "title": "Правила акции «VK Реклама рядом»",
+      "url": "https://ads.vk.ru/help/documents/promotion_rules/summer_with_vk_ads",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "e88bb9a5f2356f8916e9c12c838feaf26b4c8d029f0843f98040398fb6191651"
+    },
+    {
+      "title": "Правила акции «Выгодный процент»",
+      "url": "https://ads.vk.ru/help/documents/promotion_rules/tbank",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "403a71a15268df814960d3bb0edc5ba49a87832e6a6af709515688af4f91cd5e"
+    },
+    {
+      "title": "Правила акции «Тест-драйв»",
+      "url": "https://ads.vk.ru/help/documents/promotion_rules/test_drive",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "60cf61d1350848a75e76b5a56fec1b8acfbbbcde609099269c2852c5ba119a29"
+    },
+    {
+      "title": "Правила акции «Время селлеров»",
+      "url": "https://ads.vk.ru/help/documents/promotion_rules/the_time_for_sellers",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "98e70f17d303db2cbdab905dda0f542d234d4ec9c725304afa1496ac531c5627"
+    },
+    {
+      "title": "Правила акции «Безлимит»",
+      "url": "https://ads.vk.ru/help/documents/promotion_rules/unlimited",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "75db0f6704838aeb2e7a4523a89a1c42cc217b85e7569cfd61dafcd240dc0965"
+    },
+    {
+      "title": "Правила акции «Ваш бонус 3.0»",
+      "url": "https://ads.vk.ru/help/documents/promotion_rules/your_bonus_3",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "828785cb1e490760a2e704becc737ebd4bb32273cc7183ed04fea5e63838f74b"
+    },
+    {
+      "title": "Правила акции «Твой Бизнес»",
+      "url": "https://ads.vk.ru/help/documents/promotion_rules/your_business",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "0ae078bdc272b423c1a4b6d1bb82b8fee3da3ce7065da19d25d616f585ca11a5"
+    },
+    {
+      "title": "Документы для запуска рекламы",
+      "url": "https://ads.vk.ru/help/documents/required_documents",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "774e5f2f3bf4f4b4849ecb6287e6774e0b225989e2fc2773388d535c59af7f26"
+    },
+    {
+      "title": "FAQПопулярные вопросы о работе в VK РекламеПодробнее",
+      "url": "https://ads.vk.ru/help/faq",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "66192254cfb6e55dc11ff9bbb3fdc9489b6167f2a3cca7c790cec3072d7966f2"
+    },
+    {
+      "title": "Как связаться с поддержкой VK Рекламы",
+      "url": "https://ads.vk.ru/help/faq/ask_support",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "4dc0c6f58138a7d25f80b3877aefbaf8ad00319073d2f442b4ca378ee59c319f"
+    },
+    {
+      "title": "Сертификация в VK Рекламе",
+      "url": "https://ads.vk.ru/help/faq/certification",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "5ab7c02b320f7a9da0bc19f573d2d3368a987da8261dc6bb4ce6c1df373bef6c"
+    },
+    {
+      "title": "Как заполнить информацию о компании или ИП",
+      "url": "https://ads.vk.ru/help/faq/company_details",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "49830584957aea40e4cbeb1715901b472da32a05fe0974e9d1a257cfd6a0c607"
+    },
+    {
+      "title": "Почему быстро списывается бюджет кампании",
+      "url": "https://ads.vk.ru/help/faq/debiting_funds",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "d8edc2200a9b26deeaa0fbe4f01830bdb7ce55784569521c9abfe6c1070bda20"
+    },
+    {
+      "title": "Эксперт-анализ сообщества",
+      "url": "https://ads.vk.ru/help/faq/expert_analysis",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "da79f44cc52e9c5b45599b6cce64d01239aa1b1731dae2b888c8b4eead4d6f06"
+    },
+    {
+      "title": "Часто задаваемые вопросы",
+      "url": "https://ads.vk.ru/help/faq/faq",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "1875f3d14cf4301b3d24e1a8d24b31ea3e237c9163beef412186b2be5f778558"
+    },
+    {
+      "title": "Как узнать ID кабинета, кампании или объявления",
+      "url": "https://ads.vk.ru/help/faq/my_ad_id",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "3722f6141fa3257539148a5955be217e9995d896df5db00503358703956a4b41"
+    },
+    {
+      "title": "Почему кампания не транслируется",
+      "url": "https://ads.vk.ru/help/faq/no_impressions",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "481f7fd73eb76ea8fdf535fe91fbd607f9527f4c26792369201f92fbc3111389"
+    },
+    {
+      "title": "Премиум-подписка",
+      "url": "https://ads.vk.ru/help/faq/premium",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "158ca1ce55198ecd1ba172148c4e07b64d6281afe209d1f578c6f7b409f77791"
+    },
+    {
+      "title": "Как создать рекламу в историях",
+      "url": "https://ads.vk.ru/help/faq/stories",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "997b5722baac7aaa072315bd5cdeb0228184210af603972a15f31fdf8a7fcfa3"
+    },
+    {
+      "title": "Настройки рекламыТаргетинги, рекламные форматы, места размещения, оптимизация бюджета, аудитории и списки пользователей, UTM-метки, работа с текстом и видео в объявлении, история изменений кабинета, APIПодробнее",
+      "url": "https://ads.vk.ru/help/features",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "16c13f39614ef4dd471cc368851ad0974e4773554c31af94958aff8afe8cb084"
+    },
+    {
+      "title": "История изменений кабинета",
+      "url": "https://ads.vk.ru/help/features/account_history",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "31b2e7ab6295ccb57617f8658d9f1bb057d9506626f0fe6d6497e8308acca28c"
+    },
+    {
+      "title": "Аукцион",
+      "url": "https://ads.vk.ru/help/features/auction",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "cf9d2fdcb6f3b7ae226608a650f86ef4e4c46987a322f3fa0f76ebf36987e707"
+    },
+    {
+      "title": "Аудитории и списки",
+      "url": "https://ads.vk.ru/help/features/audiences_lists",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "9e8d4bd8b9e8a02fa75a4907325b4bb1e4282dfbd5fcdf4e87b4d2f1c4610af9"
+    },
+    {
+      "title": "Сбор аудитории по реакциям",
+      "url": "https://ads.vk.ru/help/features/audiences_lists/audience_post_vk",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "7c7714e221e27932a768fb6fee7971221203d0a13c188aac8fb354cb8d4fae01"
+    },
+    {
+      "title": "Аудитории",
+      "url": "https://ads.vk.ru/help/features/audiences_lists/audiences",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "7d3f2948be729dc31e2636065604a6affba89f669a917e7c7299b03dd5d8e69c"
+    },
+    {
+      "title": "Расширение аудитории",
+      "url": "https://ads.vk.ru/help/features/audiences_lists/expand_audiences",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "af8b3cc60a76170bd1c5fb9e6de076d055e9b7448909fdf2b8bd0442bb59fec0"
+    },
+    {
+      "title": "Загрузка внешней аудитории",
+      "url": "https://ads.vk.ru/help/features/audiences_lists/external_audiences",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "8cbf1516d0f00e29ef08b2cbb3d648be2631ff96e9365682aafa384f99105752"
+    },
+    {
+      "title": "Похожие аудитории (look-alike)",
+      "url": "https://ads.vk.ru/help/features/audiences_lists/look_alike",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "8d9a4c02dc8c69a52624b595033e6a7a00ba0d9d30dde0dfd9a350de02fa729a"
+    },
+    {
+      "title": "Списки пользователей",
+      "url": "https://ads.vk.ru/help/features/audiences_lists/user_lists",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "c2ba5637868cf5f2ec8a41c4a621487d258fb307cf10808f411aaec42709a376"
+    },
+    {
+      "title": "Стратегии ставок",
+      "url": "https://ads.vk.ru/help/features/bid_strategy",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "930e214bd588b3e76f97372006cb641ebe0a12b2d942465f4b4d73b26df7480d"
+    },
+    {
+      "title": "Изображения и видео",
+      "url": "https://ads.vk.ru/help/features/creatives",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "b545a77e1877691e1821f93fe2f8f81087d6aaf4df10e6f2f189c767b7148c9d"
+    },
+    {
+      "title": "Креативная студия",
+      "url": "https://ads.vk.ru/help/features/creatives/creative_studio",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "6bca6a6be26bb6e46cb0ab7d63daba0e5d114f673e985fac438b1c63310d29b3"
+    },
+    {
+      "title": "Медиатека",
+      "url": "https://ads.vk.ru/help/features/creatives/medialibrary",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "c094cf2888735e6dddea6f54aa6b5ea958f3f45fef7ffd14b20b095cfc80be01"
+    },
+    {
+      "title": "Галерея изображений, созданных нейросетью",
+      "url": "https://ads.vk.ru/help/features/creatives/photobank",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "ffdb47384087f425a1700d3bac92dedf14e3d109391074e94925395e187c69f5"
+    },
+    {
+      "title": "Генерация изображений",
+      "url": "https://ads.vk.ru/help/features/creatives/picture_autogen",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "debd047ee14ebf5861b01fbfd02223bb47ff65aa9e2a0b1f1c3cdd608b1520af"
+    },
+    {
+      "title": "Редактирование изображений: увеличение масштаба, улучшение качества, дорисовка, редактирование с помощью нейросети",
+      "url": "https://ads.vk.ru/help/features/creatives/refine_image",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "1524132aca68692e5d9e4f9145968419efc91f776e398997c73faff9f90d17ae"
+    },
+    {
+      "title": "Умное кадрирование изображений",
+      "url": "https://ads.vk.ru/help/features/creatives/smart_crop",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "57b2d88f96223affa443b443e3a5bbfa7059e67d3428950385a64d5b37ff8824"
+    },
+    {
+      "title": "Генерация видео",
+      "url": "https://ads.vk.ru/help/features/creatives/video_autogen",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "a7816a56bd6493f1398af204e72019ad418556ba9238a00d19166998c231ba32"
+    },
+    {
+      "title": "Прогнозатор",
+      "url": "https://ads.vk.ru/help/features/forecaster",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "6b6bf7de7ee2bd30289f5fe8987f04f2f12d0a14fa095839627e1e51d30b4203"
+    },
+    {
+      "title": "Форматы рекламы",
+      "url": "https://ads.vk.ru/help/features/formats",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "e802a45bc19559939750a1e5d7a8c93a8833bb642c28cd5aa2ed5eb825b27d24"
+    },
+    {
+      "title": "API VK Рекламы",
+      "url": "https://ads.vk.ru/help/features/help_api",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "d20f441f25815b92e21fc99d020b80de2aeb5d77c5ea22ae083d5d36f695f06c"
+    },
+    {
+      "title": "Сочетания клавиш для работы в кабинете",
+      "url": "https://ads.vk.ru/help/features/hotkeys",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "004f327a429ad64bdd833b66b0f2e40f9b0716f21107c416ec8a015208e3438e"
+    },
+    {
+      "title": "Оптимизация бюджета",
+      "url": "https://ads.vk.ru/help/features/optimization",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "447f4fad2325cbf76107b95f162d922ec3d42f5fedffcccba4a10e9a20ee447b"
+    },
+    {
+      "title": "Модель оплаты",
+      "url": "https://ads.vk.ru/help/features/payment_model",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "9554f77c35efe6780eed374c866c9f620379b71d03f820ff3284a8179f197fd4"
+    },
+    {
+      "title": "Места размещения",
+      "url": "https://ads.vk.ru/help/features/placements",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "bc146833e7fc84b468fb0c349a238a5d84c5acd4f2f009ed525202a7808f83ee"
+    },
+    {
+      "title": "Автоматический подбор таргетингов",
+      "url": "https://ads.vk.ru/help/features/reco_targeting",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "2826c9a955fb5c94c67aef00e9dce85abebe43d455b767a97af1250cd406571c"
+    },
+    {
+      "title": "REF-метки",
+      "url": "https://ads.vk.ru/help/features/ref-tags",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "e6c62084de249d2c8784a5a1b2bf0165a837ae41633cbd35f997ffc83e27abfa"
+    },
+    {
+      "title": "Безопасные зоны",
+      "url": "https://ads.vk.ru/help/features/safe",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "4db215ec088d931d5259105df36eb537719281e83a34245c28290b3d309cc463"
+    },
+    {
+      "title": "Целевое действие",
+      "url": "https://ads.vk.ru/help/features/target_action",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "049372beb6b9f45d8ad0ef224967d6851fb33cb08ef17628cc00d94533852468"
+    },
+    {
+      "title": "Таргетинги",
+      "url": "https://ads.vk.ru/help/features/technology",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "0982b4b536c3e2fae15a33e9dfbea8c566b695b559f996333b2bdc6ae0ef7a15"
+    },
+    {
+      "title": "Текст и заголовок объявления",
+      "url": "https://ads.vk.ru/help/features/text_creatives",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "60e79d87985762e550335e799db05c1791ebba96a331b84616784cd1249e1afd"
+    },
+    {
+      "title": "Макросы в заголовке и тексте объявления",
+      "url": "https://ads.vk.ru/help/features/text_creatives/ad_macro",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "2510e605ee76ef82cb0907b9fccf4e514cfc9bf7d39158bba3fdad97a7b1c99c"
+    },
+    {
+      "title": "Редактор текста",
+      "url": "https://ads.vk.ru/help/features/text_creatives/editor",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "c536eaf0051582ce3da3dae7d5d90c59d1e89bba288cdc2e22500b7488218feb"
+    },
+    {
+      "title": "Генерация текста",
+      "url": "https://ads.vk.ru/help/features/text_creatives/text_autogen",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "2a791fd26558d6f7b58b84e513a41cbb6b80c8c81781361e503096fbfb9aba74"
+    },
+    {
+      "title": "UTM-метки",
+      "url": "https://ads.vk.ru/help/features/utm",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "20eb9e9cedffb2c7b6b541642d68cf9117c90e984cc0e2c1e8c3cbd0a96350b4"
+    },
+    {
+      "title": "Создание рекламы Как создать рекламную кампанию для сообщества, мобильного приложения, сайта, лид-формы, каталога товаров, а также продвижения в соцсетях видео, музыки, мини-приложенийПодробнее",
+      "url": "https://ads.vk.ru/help/general",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "bf647f51d29570b8b3aaefc4e438cef19dbbf94835f51ea4216348760ed6e50b"
+    },
+    {
+      "title": "Агентствам",
+      "url": "https://ads.vk.ru/help/general/agency",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "4b8bba7889b2b5ddc56630f526e58c83f40f60ac6785b4f6f4deca3d276ad94f"
+    },
+    {
+      "title": "Права доступа",
+      "url": "https://ads.vk.ru/help/general/agency/access_rights",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "3ee021e7097b092a5d05ece0ad265e833dce0f1aadf7c63824a40ecc8fa220d6"
+    },
+    {
+      "title": "Клиенты агентства",
+      "url": "https://ads.vk.ru/help/general/agency/agency_clients",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "f4694c4061fe0301efb38801d5b60401472b1f514cef586c395805b356824048"
+    },
+    {
+      "title": "Менеджеры агентства",
+      "url": "https://ads.vk.ru/help/general/agency/agency_managers",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "56c21e815a32fdfe52f14dd39c043f36c7f80ac9cebe5d6e6c1e095203831eaa"
+    },
+    {
+      "title": "Мобильные приложения",
+      "url": "https://ads.vk.ru/help/general/apps",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "dbb8773c04f95b270b90ed89807371e9b1ac7bfeb6894361b6059f82f999d823"
+    },
+    {
+      "title": "Добавление нового приложения",
+      "url": "https://ads.vk.ru/help/general/apps/add_app",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "73ac4b5b0143e78dbd7dfc88b6f827799c540077390d374613e9b52b547bfac2"
+    },
+    {
+      "title": "Продвижение мобильных приложений",
+      "url": "https://ads.vk.ru/help/general/apps/app_campaign",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "e3004891271267ac219a5ae19924f99e9f6975ed501a5f5a81c87856d841dd81"
+    },
+    {
+      "title": "Диплинки в рекламе мобильного приложения",
+      "url": "https://ads.vk.ru/help/general/apps/app_deeplinks",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "4c5a808bdb5ba809af5b0a3fb3a6f3fe56f9c7726a657cfeec73324032ebfc1b"
+    },
+    {
+      "title": "Карточки приложений",
+      "url": "https://ads.vk.ru/help/general/apps/apps",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "b89bf7aa368bb63420f1e6896a1ca8980a291ca39341dd7bc2e9cdd142808772"
+    },
+    {
+      "title": "Интеграция приложений из Huawei AppGallery с трекерами",
+      "url": "https://ads.vk.ru/help/general/apps/huawei_integration_tracker",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "d0dc192a22d3e2485c7b0b0727174dd702c8130aae3a6889e6e3baabcd776fb4"
+    },
+    {
+      "title": "Интеграция приложения с трекером Branch",
+      "url": "https://ads.vk.ru/help/general/apps/integration_branch",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "4cb2d5335a2b9b3a3497770c2a1c065a0a35172ababb3961e8fc30bda0450e91"
+    },
+    {
+      "title": "Интеграция приложения с трекером",
+      "url": "https://ads.vk.ru/help/general/apps/integration_tracker",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "579ed02df36ead3f6e698e0bd7fe9275f9b80da14de1e120af59de1c24967486"
+    },
+    {
+      "title": "Интеграция приложения с трекером Adjust",
+      "url": "https://ads.vk.ru/help/general/apps/integration_tracker_adjust",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "591d56cc94726e10dc543831be218c67372775a8c83c597dd1d44cfbf5d8c8ff"
+    },
+    {
+      "title": "Интеграция приложения с трекером AppMetrica",
+      "url": "https://ads.vk.ru/help/general/apps/integration_tracker_appmetrica",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "3a67f8791115a2c39522e8200d4546bc73efcfddd09a82f0202e670cf95c8058"
+    },
+    {
+      "title": "Интеграция приложения с трекером AppsFlyer",
+      "url": "https://ads.vk.ru/help/general/apps/integration_tracker_appsflyer",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "95c4a485ecae2d3beb682abb199a0b62da51c298e896a781c6591d5ef7bb21bb"
+    },
+    {
+      "title": "Интеграция приложения с трекером MyTracker",
+      "url": "https://ads.vk.ru/help/general/apps/integration_tracker_mytracker",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "ab4064dee756546b150e02dc89ce930f5d76842cb207ee3d187461385f16b580"
+    },
+    {
+      "title": "Интеграция приложения с трекером Singular",
+      "url": "https://ads.vk.ru/help/general/apps/integration_tracker_singular",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "f2d9a8e4c1b11ab4074fbf88003cd9fae4602db94579daf2614296311029797e"
+    },
+    {
+      "title": "Интеграция приложения с трекером Tenjin",
+      "url": "https://ads.vk.ru/help/general/apps/integration_tracker_tenjin",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "941a11102bfe927927ff7a5df301eb452ff479261ff1cd11177299d4c896924b"
+    },
+    {
+      "title": "Бесшовная установка приложений из RuStore",
+      "url": "https://ads.vk.ru/help/general/apps/rustore_direct_installation",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "e77c7f9e101dcb39bfffdf413ad292b38ed44ff138998bd08619b190ba43031e"
+    },
+    {
+      "title": "Запуск кампаний приложений из RuStore – оптимизация на события",
+      "url": "https://ads.vk.ru/help/general/apps/rustore_direct_links",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "8497d06530374548cdd73d18d48b9ce380e704204c8194a28a4d029d4bfe316b"
+    },
+    {
+      "title": "Интеграция приложений из RuStore с трекерами",
+      "url": "https://ads.vk.ru/help/general/apps/rustore_integration_tracker",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "c37e11f6a8410cb604a08dc22738dfd3498448f217c55746252d1e5918dbce46"
+    },
+    {
+      "title": "SKAdNetwork",
+      "url": "https://ads.vk.ru/help/general/apps/skadnetwork",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "de33255fd2327423bd136b55d92e9967a2134c4e5cc772fe547d551410474776"
+    },
+    {
+      "title": "Требования к трекинг-ссылкам Adjust",
+      "url": "https://ads.vk.ru/help/general/apps/tracking_adjust",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "367cd0683e4e27459fe4e505f7490bc5016d7a3d228563d0c2503ac6080c99b3"
+    },
+    {
+      "title": "Требования к трекинг-ссылкам AppMetrica",
+      "url": "https://ads.vk.ru/help/general/apps/tracking_appmetrica",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "d77d687c749ae514bf064b3cff7e75535660d9f71c26180fb4a322cefaa99a0a"
+    },
+    {
+      "title": "Требования к трекинг-ссылкам AppsFlyer",
+      "url": "https://ads.vk.ru/help/general/apps/tracking_appsflyer",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "51eb4ca2f948b2fcf4c76b168cd3471b51b74b49699a51214d559547b6edbbd0"
+    },
+    {
+      "title": "Требования к трекинг-ссылкам Branch",
+      "url": "https://ads.vk.ru/help/general/apps/tracking_branch",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "53771b4c9292693a06ea277eb07fc2abaf6446875d41a6e55b278ffbf678f09a"
+    },
+    {
+      "title": "Макросы в трекинг-ссылках",
+      "url": "https://ads.vk.ru/help/general/apps/tracking_links",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "71dcb4b504dfb7eb45481f70edd109dedf594f3fdfa895d5f5512bf9418036d9"
+    },
+    {
+      "title": "Требования к трекинг-ссылкам MyTracker",
+      "url": "https://ads.vk.ru/help/general/apps/tracking_mytracker",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "896bd5e936c8f998ed8e61207de31c8cecc56d920a101c768c833c93a479eca9"
+    },
+    {
+      "title": "Требования к трекинг-ссылкам Singular",
+      "url": "https://ads.vk.ru/help/general/apps/tracking_singular",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "e771df5f6611e68bf9ccef3eb1cce6aece06129b5013b920c1106bf789f701e4"
+    },
+    {
+      "title": "Требования к трекинг-ссылкам Tenjin",
+      "url": "https://ads.vk.ru/help/general/apps/tracking_tenjin",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "ed0343ce366128c6393ca27ab25f770284393254826ad124b8b404d549c7cf6d"
+    },
+    {
+      "title": "Медийная реклама",
+      "url": "https://ads.vk.ru/help/general/branding_ads",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "74fbef08f304a8e44de565aca507181f8fcbbd72baea6cbf9e58ff7257eaa4cd"
+    },
+    {
+      "title": "Аудиореклама",
+      "url": "https://ads.vk.ru/help/general/branding_ads/audioads",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "8bba9031da9383a396d84e9a08cd1abd8ddae6cf48b32097cf33ad358165e30f"
+    },
+    {
+      "title": "Запуск медийной рекламы",
+      "url": "https://ads.vk.ru/help/general/branding_ads/branding",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "109e9d80f1cc9c6d4f4eacf2995d49d2707b67d206b6a46c2b758eb0a4f9a364"
+    },
+    {
+      "title": "Баннерная реклама",
+      "url": "https://ads.vk.ru/help/general/branding_ads/branding_banner",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "2bb9e75c24271b88170fea76c905b1483836b2280c5038062ebd667b2623bf7a"
+    },
+    {
+      "title": "Медийный формат «Дзен»",
+      "url": "https://ads.vk.ru/help/general/branding_ads/branding_dzen",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "5ed3a636ab7f3abc448f200c825d0180a015be9f91e67aedace80b3ad4b0e6c2"
+    },
+    {
+      "title": "HTML5 баннер",
+      "url": "https://ads.vk.ru/help/general/branding_ads/branding_html5",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "f6d7f4b14103d5b720f2c93944e542d6bf011ff90fa00d3ee78263f23335ccb4"
+    },
+    {
+      "title": "Группа и профиль ОК",
+      "url": "https://ads.vk.ru/help/general/branding_ads/branding_ok_groups",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "3fdfc4ee3bda808c4279a593425af1f672abf09a40139e536394f0bef6d92149"
+    },
+    {
+      "title": "Видеореклама",
+      "url": "https://ads.vk.ru/help/general/branding_ads/branding_video",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "f76b8a888713da56bc4216f9c311aa21f1488edba89587f4b3c57762d43d2343"
+    },
+    {
+      "title": "Медийный формат «Пост, видео, клип, статья»",
+      "url": "https://ads.vk.ru/help/general/branding_ads/branding_video_content",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "1db7c7ff901aa8f106007a591c868cdc676ba8c6de7854e8e89f6c2b74f5917a"
+    },
+    {
+      "title": "Прямые сделки",
+      "url": "https://ads.vk.ru/help/general/branding_ads/direct_transactions",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "94d5056614480108d0befd1ca2f43693b798a8b4800e021c5c521dfc701c0f4d"
+    },
+    {
+      "title": "Премиальное размещение",
+      "url": "https://ads.vk.ru/help/general/branding_ads/premium_ads",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "11fc6344d54d4930ead227463f0324af8806f4ca4c070fb2ee8b740ad5e1afd2"
+    },
+    {
+      "title": "Аудит-пиксели и способы верификации показов",
+      "url": "https://ads.vk.ru/help/general/branding_ads/verifiers",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "9df8f4d1a5726c0b2102d08a2902003f4bc44090822231bd8a0cdc9b62ebe2ae"
+    },
+    {
+      "title": "Сообщества",
+      "url": "https://ads.vk.ru/help/general/community",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "5024b9df42d688a97cba9346889801cfae66b856ab5ad4bb9b687a8e225563c7"
+    },
+    {
+      "title": "Как отредактировать пост со стены сообщества",
+      "url": "https://ads.vk.ru/help/general/community/edit_post",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "a5128f63963b5aad2ed91187433d1d40ff390832bd6cd0d1ed95f3dee2cf23b2"
+    },
+    {
+      "title": "Продвижение сообществ",
+      "url": "https://ads.vk.ru/help/general/community/engagement",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "da556553bfb830bec118787a2283926f2dd053af708f3abd9fec193fa77f7738"
+    },
+    {
+      "title": "Дзен",
+      "url": "https://ads.vk.ru/help/general/dzen",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "f32c79b11ab2e82fcde948a3d426c68fcabe70a404d340e15e83d5e9668150fd"
+    },
+    {
+      "title": "Рекламные пиксели в статье Дзена",
+      "url": "https://ads.vk.ru/help/general/dzen/counter",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "5d6ffbd2c3c926e518bc798df5058383b1459eba8a6816aeec2d9e0052ec1c3e"
+    },
+    {
+      "title": "Советы по запуску кампаний в Дзене",
+      "url": "https://ads.vk.ru/help/general/dzen/dzen_tips",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "bd6745458f8d559daf831b0857f776b27955fce2b7228eef5def34d23b932416"
+    },
+    {
+      "title": "Продвижение статьи и канала в Дзене",
+      "url": "https://ads.vk.ru/help/general/dzen/promo_dzen",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "0ac8cff1f094821d9e26deac147df8fbb98ec3ba2d5a78f25b884c9c64f53ceb"
+    },
+    {
+      "title": "Scroll-to-site",
+      "url": "https://ads.vk.ru/help/general/dzen/scroll_to_site",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "fe8fd0a92227014ad9f69eeaece7bdfd0869c547b663199a1d06d63706620c24"
+    },
+    {
+      "title": "Продвижение видео в Дзене",
+      "url": "https://ads.vk.ru/help/general/dzen/video_promo_dzen",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "dd95e533c8c822dc6c827f64aab18150e2a88cd0c784ece75dee158c5e613a80"
+    },
+    {
+      "title": "Каталоги товаров",
+      "url": "https://ads.vk.ru/help/general/ecomm",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "165b16e97870012dc40196f62b22c23a949726c080388bf14c72062c5b13e932"
+    },
+    {
+      "title": "Динамический ретаргетинг",
+      "url": "https://ads.vk.ru/help/general/ecomm/dyn_ret",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "e7d459330140e9e42bc3947f3106dc09fb5a0cf56179bc8b09f4b7bf3105aa26"
+    },
+    {
+      "title": "Динамический ретаргетинг на базе мобильных событий",
+      "url": "https://ads.vk.ru/help/general/ecomm/dyn_ret/ecomm_mob_dynrem",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "f34d342f37add54aa93ce14bb6e378ea7bacf1380af0cfa678acbf69727e531d"
+    },
+    {
+      "title": "Динамический ретаргетинг на базе веб-событий",
+      "url": "https://ads.vk.ru/help/general/ecomm/dyn_ret/ecomm_web_dynrem",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "61898dcbba434c672baf02544080e46029c00b758cd0215241006d1aca821d03"
+    },
+    {
+      "title": "Full Stream Attribution",
+      "url": "https://ads.vk.ru/help/general/ecomm/dyn_ret/fsa",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "0600a6baeb2ec4e6ede53558bb9a6d6f398d7cab56c922d7c72c8a8e353e5258"
+    },
+    {
+      "title": "Центр коммерции",
+      "url": "https://ads.vk.ru/help/general/ecomm/ecomm_interface",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "55e920054d212d60297482d307189be34dd80eb6056ffddc9a82fba4c3d28439"
+    },
+    {
+      "title": "Центр коммерции",
+      "url": "https://ads.vk.ru/help/general/ecomm/ecomm_interface/about_ecomm",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "037b85f2ad0bc8f304b1bba3e17d5c2a0aecb49e41e0623286d1dc15ec62d3d6"
+    },
+    {
+      "title": "Диагностика",
+      "url": "https://ads.vk.ru/help/general/ecomm/ecomm_interface/ecomm_diagnostics",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "4521d9ccc96f1ee6fb2802c8704cf50f015b6d304cba1f678114e06fcbff3b87"
+    },
+    {
+      "title": "События",
+      "url": "https://ads.vk.ru/help/general/ecomm/ecomm_interface/ecomm_events",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "f66c188a6bfdb1cb336b33a8ef179d3867bd4b18827a62827fe74527472062ce"
+    },
+    {
+      "title": "Товары",
+      "url": "https://ads.vk.ru/help/general/ecomm/ecomm_interface/ecomm_goods",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "3a655fae75f83e2a462103d25529840603e6569c6b1fab90166a580db6499cf7"
+    },
+    {
+      "title": "Группы товаров",
+      "url": "https://ads.vk.ru/help/general/ecomm/ecomm_interface/ecomm_groups",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "9437b072415afed1c6349a4a164e32f56017de4841133f04e9f6dc0e96c6c636"
+    },
+    {
+      "title": "История загрузок",
+      "url": "https://ads.vk.ru/help/general/ecomm/ecomm_interface/ecomm_history",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "8182b7f1935eb04b7e1c2ec8359e8bdae4971d7ffaec391abdc4c25c21dcfec7"
+    },
+    {
+      "title": "Реклама товаров сайта или приложения",
+      "url": "https://ads.vk.ru/help/general/ecomm/feed_campaign",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "cb9c46ea707fd1c561e7d4e8db3f702fd2c4840ddfe1c67bacfd58a28bf279b2"
+    },
+    {
+      "title": "Реклама товаров сообщества",
+      "url": "https://ads.vk.ru/help/general/ecomm/feed_campaign_community",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "ea9c83307cc1d11a8c3e22d0b51940078f65263d60e39785f7d9d548cf28debd"
+    },
+    {
+      "title": "Реклама товаров маркетплейса",
+      "url": "https://ads.vk.ru/help/general/ecomm/feed_campaign_marketplace",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "bd4d4d9fbea8dc129271bf651574f7fb9f875057f384204853cb2f0eae054dc1"
+    },
+    {
+      "title": "Каталоги",
+      "url": "https://ads.vk.ru/help/general/ecomm/feed_catalog",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "5611e0937a1041964bef91f0207ee6f23fb92148c4c1f95c5198fb3650243552"
+    },
+    {
+      "title": "Каталоги — что это, как создать, отредактировать и удалить",
+      "url": "https://ads.vk.ru/help/general/ecomm/feed_catalog/ecomm_catalog",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "b11b22d53a2cb9617b3074689ced74161b843a2c48ad06700d42344ff2c69183"
+    },
+    {
+      "title": "Каталог для авиарейсов",
+      "url": "https://ads.vk.ru/help/general/ecomm/feed_catalog/ecomm_catalog_avia",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "75cdf0a5f61e6ec9088789986461da44441b31c4857f5d8dceabcdabf6bc3e4e"
+    },
+    {
+      "title": "Каталог для недвижимости",
+      "url": "https://ads.vk.ru/help/general/ecomm/feed_catalog/ecomm_catalog_estate",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "83e788e5d911b7bfcff54d35c7d1a9120c79f63b2a2351ba1608b3a18f85aab3"
+    },
+    {
+      "title": "Каталог для авиарейсов (спецификация Google)",
+      "url": "https://ads.vk.ru/help/general/ecomm/feed_catalog/ecomm_catalog_g_avia",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "b2bac545309fd39ddbdee1d7a545f0a3e7fdf944c589b3765632c4e956ce650d"
+    },
+    {
+      "title": "Каталог для товаров по спецификации Google",
+      "url": "https://ads.vk.ru/help/general/ecomm/feed_catalog/ecomm_catalog_g_goods",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "d0c76dd513636ce318bd8f14eebb56e52bbceb040ac20e747ae78ee72e329fea"
+    },
+    {
+      "title": "Каталог для гостиниц (спецификация Google)",
+      "url": "https://ads.vk.ru/help/general/ecomm/feed_catalog/ecomm_catalog_g_hotel",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "86a6ca9404d310d57fc875def5ef4c4cd0747b3b77f42dc9527d8263ea0c0eed"
+    },
+    {
+      "title": "Каталог для лекарств по спецификации Google",
+      "url": "https://ads.vk.ru/help/general/ecomm/feed_catalog/ecomm_catalog_g_meds",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "8244bd0df75c47337b66cea73f530c480ee484060a89dd4276abddffe6450ac4"
+    },
+    {
+      "title": "Каталог для гостиниц",
+      "url": "https://ads.vk.ru/help/general/ecomm/feed_catalog/ecomm_catalog_hotel",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "57236604b9bda59ca3a6fa6ef649307974f33dcd6bfac4c65e9f07b2a550943b"
+    },
+    {
+      "title": "Создание каталога для маркетплейса",
+      "url": "https://ads.vk.ru/help/general/ecomm/feed_catalog/ecomm_catalog_mp",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "37ce6edf029d8e69d55a2064d0601b3f99464fb4eb1c79f8521368640a172899"
+    },
+    {
+      "title": "Общие требования к каталогам",
+      "url": "https://ads.vk.ru/help/general/ecomm/feed_catalog/ecomm_catalog_requirements",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "39a50a157ed267f8ada0eee72719d52bdc82a751a4ec0af8e753fe54f56e5273"
+    },
+    {
+      "title": "Каталог для сервисов услуг",
+      "url": "https://ads.vk.ru/help/general/ecomm/feed_catalog/ecomm_catalog_service",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "eb8c32a12cbb77334e65215c900a26ea9343be4626afb0510870e7c6eff704c3"
+    },
+    {
+      "title": "Каталог для транспортных средств",
+      "url": "https://ads.vk.ru/help/general/ecomm/feed_catalog/ecomm_catalog_transport",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "443f160f717bf37d08b19ac1358371924ab539c065c1b7663770bfffdf03db62"
+    },
+    {
+      "title": "Каталог для недвижимости по спецификации Yandex",
+      "url": "https://ads.vk.ru/help/general/ecomm/feed_catalog/ecomm_catalog_y_estate",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "cd26aab4d0826de8173930195d709d73e49f627804569a3710465a2eeb1530df"
+    },
+    {
+      "title": "Каталог для товаров по спецификации Yandex",
+      "url": "https://ads.vk.ru/help/general/ecomm/feed_catalog/ecomm_catalog_y_goods",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "4c00982eb480f1eff25929187cab88646f95780763c0a68df9918a23f275a4e5"
+    },
+    {
+      "title": "Каталог для лекарств по спецификации Yandex",
+      "url": "https://ads.vk.ru/help/general/ecomm/feed_catalog/ecomm_catalog_y_meds",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "86df299c397751a2b3e24fbce61f891ec95e15d5e5c26de2b5caf5b8856d1c2d"
+    },
+    {
+      "title": "Каталог для транспортных средств по спецификации Yandex",
+      "url": "https://ads.vk.ru/help/general/ecomm/feed_catalog/ecomm_catalog_y_transport",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "3fbb51a95392bdd8b06b55f8b13d8e74c55e12c41aca0a1ba523e4ae5ceddd80"
+    },
+    {
+      "title": "Параметры для мобильных приложений в рекламе товаров из каталога",
+      "url": "https://ads.vk.ru/help/general/ecomm/feed_deeplinks",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "df740e12faf6fcba9cfc2fc8dcf830c28059f59ae398dfd5b7f2d57c44e830b1"
+    },
+    {
+      "title": "Макросы в рекламе продуктов из каталога",
+      "url": "https://ads.vk.ru/help/general/ecomm/feed_macro",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "e431f2acf4289cd982ee3dc3834a9b375881a360419e501abfd665fe13f173e5"
+    },
+    {
+      "title": "Лид-формы и опросы",
+      "url": "https://ads.vk.ru/help/general/lead_forms",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "cd08c1bce3c4bd59a23320a96b14b66dd2c9dfe1ffc69ffbd4b06ecff98dbd43"
+    },
+    {
+      "title": "Brand Lift Survey",
+      "url": "https://ads.vk.ru/help/general/lead_forms/brand_lift",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "d239edec4c18613a55414b6fc6d06879d416b07a010bce4ca44f2d10d53a448c"
+    },
+    {
+      "title": "Запуск рекламы с визиткой",
+      "url": "https://ads.vk.ru/help/general/lead_forms/business_card",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "6574600e9e668cf6447580d03be608c849b299de7f8c0bc6266ae7a415611d54"
+    },
+    {
+      "title": "Создание лендинга для прогрева лид-формы",
+      "url": "https://ads.vk.ru/help/general/lead_forms/landing",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "b8dbfb7e3cd77112f45f09ea03c26be5c7de1d70c783df6d90e15b544c49f4d8"
+    },
+    {
+      "title": "Советы по запуску рекламы с лид-формами",
+      "url": "https://ads.vk.ru/help/general/lead_forms/lead_ads_tips",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "e21b388d5b085a04362d96e3f6148adac1ed1209adc1a2c08e3c41ee47cbf19b"
+    },
+    {
+      "title": "Запуск рекламы с лид-формой",
+      "url": "https://ads.vk.ru/help/general/lead_forms/lead_forms",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "fe034ca663e3da578f48403f1f460430af9c9a44095c3f71c38b28ffe202988c"
+    },
+    {
+      "title": "Как отслеживать качество лидов из CRM в VK Рекламе",
+      "url": "https://ads.vk.ru/help/general/lead_forms/lead_transfer",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "bf7482749d491d19aa52f426cc236e2ba486d61c39afc5658b7a57792f8bb9ff"
+    },
+    {
+      "title": "Сплит-тест для лид-форм",
+      "url": "https://ads.vk.ru/help/general/lead_forms/split_test",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "1443e3e2a1ce7b9337cd2cea8670a05780a1fb35b86fc95c0ea2b1872bcff422"
+    },
+    {
+      "title": "Запуск рекламы с опросом",
+      "url": "https://ads.vk.ru/help/general/lead_forms/surveys",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "11d524ae51758d9b6f0188d7f6ce4a6b7d3a88223ae6e19fe2f20a0cb30833fb"
+    },
+    {
+      "title": "Продвижение в соцсетях",
+      "url": "https://ads.vk.ru/help/general/network",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "ebb769846f3cdf7b7fdc1864f912b60227adea9fda14b3b94390c012db563e73"
+    },
+    {
+      "title": "Как разместить контент в VK Музыке",
+      "url": "https://ads.vk.ru/help/general/network/how_to_add_music",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "c0051a079bf82e7bc7144aa231e2ec3abf58adf1cb1e52c94453575dc69954f5"
+    },
+    {
+      "title": "Продвижение мини-приложений: VK Mini Apps и игры ВКонтакте",
+      "url": "https://ads.vk.ru/help/general/network/mini_app",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "0ed087e74cf24c6dbff9d36b7c16a38beaf642756dfa8b0aa8b8c0be4696441c"
+    },
+    {
+      "title": "Продвижение музыки ВКонтакте",
+      "url": "https://ads.vk.ru/help/general/network/music",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "e581897d62edfe8b310d7da038f7371aad144e80f41681cd5a2f8f8d57b2e2da"
+    },
+    {
+      "title": "Продвижение групп и профилей в Одноклассниках",
+      "url": "https://ads.vk.ru/help/general/network/ok_groups",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "402a0f56d57e02b78eea6595212eb56ae4bded80cef79159345aa479c8343ec7"
+    },
+    {
+      "title": "Продвижение личных профилей ВКонтакте",
+      "url": "https://ads.vk.ru/help/general/network/profile",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "70a2aa309977e6ab56ebeba823b72339d98276a766116cb964e7cba33be56ab7"
+    },
+    {
+      "title": "Как настроить личный профиль перед продвижением",
+      "url": "https://ads.vk.ru/help/general/network/profile_settings",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "9621495fb99e758fcebc59a7fbbc6b865a5c68ecf44423adb25a36e0d6b5fb47"
+    },
+    {
+      "title": "Продвижение канала ВКонтакте и MAX",
+      "url": "https://ads.vk.ru/help/general/network/promo_channel",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "28deab7a1aaeb6ee869558a161a064a9a636d18b5222d81a1314419b97ef4ffa"
+    },
+    {
+      "title": "Универсальная запись",
+      "url": "https://ads.vk.ru/help/general/network/universal_post",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "af1cec1d79b8bc9ef878f61ff6570c770c7216cf95e533ba68e7b329f39305ab"
+    },
+    {
+      "title": "Продвижение видео и трансляций ВКонтакте",
+      "url": "https://ads.vk.ru/help/general/network/video",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "6e3ba9bfb1c883d32abc075fb314b23c0bd4bee665fbc72a2683c0ced8c85c0f"
+    },
+    {
+      "title": "Как отправлять события из мини-приложения",
+      "url": "https://ads.vk.ru/help/general/network/vkwebapptrackevent",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "f3ac71e4c079cdfd1dd412dd2f7d99b035b4331d30459c9985389c1152343c71"
+    },
+    {
+      "title": "Сайты",
+      "url": "https://ads.vk.ru/help/general/sites",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "5ea7a2780c5a5062d0a61b7951c30908dc4005261d0f13cc96edb399209ff1f1"
+    },
+    {
+      "title": "Аудиторные теги пикселя",
+      "url": "https://ads.vk.ru/help/general/sites/audience_tags",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "9e08cd8ca92dce74d1ed4dc6fa7fdff5da6c0c94286d1be3e0ecb3266e38b47e"
+    },
+    {
+      "title": "Разметка ссылки для верификации кликов",
+      "url": "https://ads.vk.ru/help/general/sites/click_links",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "96fc9605d81f5fa34fdf6ddfc5577bd5ea80ebd6d77cdb8846084d325611cdd8"
+    },
+    {
+      "title": "Атрибуция офлайн-конверсий на основе CRM данных",
+      "url": "https://ads.vk.ru/help/general/sites/crm_offline_conversions",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "32c072aff7bc8dda49459fded180e65dc85c7e700f75c15e8a6720fb920b6cad"
+    },
+    {
+      "title": "Передача офлайн-событий в пиксель",
+      "url": "https://ads.vk.ru/help/general/sites/offline_events",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "26cd3d31c9b9070b745ff5e7298c5e1e792a40fbe887a7f55d5ce5089819c408"
+    },
+    {
+      "title": "Пиксель VK Рекламы",
+      "url": "https://ads.vk.ru/help/general/sites/pixel",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "d7e3ab2cc832793a12f60adb0b63287504fc1c07b876aa989b89e54416cecb48"
+    },
+    {
+      "title": "Атрибуция конверсий для сайтов",
+      "url": "https://ads.vk.ru/help/general/sites/site_attribution",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "38456a145e34d64e2b003ce75309c1c30e0f11cdcf4e10d8b2dcaa1468f0bbc8"
+    },
+    {
+      "title": "Сервис диагностики сайтов — VK Site Checker",
+      "url": "https://ads.vk.ru/help/general/sites/site_checker",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "ac75aa884726fc1ddbaafc24674f85db81b09fad156f7035f6aef280b8ea40f3"
+    },
+    {
+      "title": "Портрет аудитории сайта",
+      "url": "https://ads.vk.ru/help/general/sites/site_portrait",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "68b7552bacfdf9b0b3a2e4a948f1b6d823c56b9c32305c162ef79e8933ba1b18"
+    },
+    {
+      "title": "Запуск рекламы сайта",
+      "url": "https://ads.vk.ru/help/general/sites/sites",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "01075a49ce2c4705f3d96687ea5833e84662913f3f12642aa09590cbf2f6b265"
+    },
+    {
+      "title": "Технология Universal Link/App Link на сайте",
+      "url": "https://ads.vk.ru/help/general/sites/universal_link_or_app_link",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "d702cd8a654e77364984ca45312ef64657445f18f99f09173fb8269783e4b5d7"
+    },
+    {
+      "title": "Визуальный конструктор событий",
+      "url": "https://ads.vk.ru/help/general/sites/visual_event",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "5b8c5e69fb29559a6bbb2416d6f6eaa2f8edb012b3370e1b24dee826a86abed5"
+    },
+    {
+      "title": "Как создать рекламу",
+      "url": "https://ads.vk.ru/help/general/start",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "3d5f8f06739a58367c1599601b359808544171ce08cd2e323718de0b3d49ed87"
+    },
+    {
+      "title": "Лимит количества объявлений",
+      "url": "https://ads.vk.ru/help/general/start/ad_limits",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "84c0d1b90271d9edfaa24951093f10f086e9056fa57b5b9d4455a75d14a78237"
+    },
+    {
+      "title": "Загрузка документов для модерации",
+      "url": "https://ads.vk.ru/help/general/start/add_documents",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "6130c3b5970eb00d37c8c793cb246e219250c61f1529b821c34c4245faea6940"
+    },
+    {
+      "title": "Добавление редиректа в белый список",
+      "url": "https://ads.vk.ru/help/general/start/add_redirect",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "eb64c17c42964756369982259bdb308c8d6896049134726fba26cfb02d3f66d8"
+    },
+    {
+      "title": "Предпросмотр объявлений",
+      "url": "https://ads.vk.ru/help/general/start/banner_preview",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "75b9a49d7a0370bd10b15b28d6bfe4612f451855726bf8c62247c65052c340c5"
+    },
+    {
+      "title": "Лимит бюджета",
+      "url": "https://ads.vk.ru/help/general/start/budget_limits",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "fef2fc725eaf2ddde5a32195c2562251e9ceb489a50f08dddef540c1c8dad465"
+    },
+    {
+      "title": "Статусы кампаний, групп и объявлений",
+      "url": "https://ads.vk.ru/help/general/start/campaign_status",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "a284f478bf6818eb6ab972cb4cdce27467f87363cf1486b00a65b5b450f9fe05"
+    },
+    {
+      "title": "Копирование кампаний, групп, объявлений",
+      "url": "https://ads.vk.ru/help/general/start/copy",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "8921c71ad0e37babfd62560b6f1df845b6d6d1634e8c2661ad49877f10552a3f"
+    },
+    {
+      "title": "Этапы создания",
+      "url": "https://ads.vk.ru/help/general/start/creating",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "0c6057cd4d5af160de2eb3c3cfc3a2f5e77d127a55743ee2136be261f0a7ac6e"
+    },
+    {
+      "title": "Удаление и восстановление кампаний, групп и объявлений",
+      "url": "https://ads.vk.ru/help/general/start/delete_campaign",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "2bd88770180b14c9ba2cb656e055730458981312fdf05800e0353409607b40d9"
+    },
+    {
+      "title": "Редактирование кампаний, групп и объявлений",
+      "url": "https://ads.vk.ru/help/general/start/edit_campaign",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "7cfa582a9e19d5954505f5577d214480e80df6049950aabed3540c3313c6f61c"
+    },
+    {
+      "title": "Режим эксперта",
+      "url": "https://ads.vk.ru/help/general/start/expert_mode",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "3ea96a0b7f2e79b9fa01c74fefe776d5928d2be6986ba710ba1a2f139436ab48"
+    },
+    {
+      "title": "Быстрый запуск кампаний",
+      "url": "https://ads.vk.ru/help/general/start/smart_campaign",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "b7a46658ea9216d6bdb5e1cd4cf5a4b583125b7d564292e465ca77bfe4f20b90"
+    },
+    {
+      "title": "Помощь таргетологов",
+      "url": "https://ads.vk.ru/help/general/start/targetologists",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "browser",
+      "text_sha256": "c3b63f74ecc07e277b859f9c206c89f82c7e4d00aacfa3a7c2cf8710ff8f5a9f"
+    },
+    {
+      "title": "Мобильный кабинетКак создать и настроить объявление в упрощённом кабинете VK РекламыПодробнее",
+      "url": "https://ads.vk.ru/help/mini_ads",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "2464dd70e14f0c97b1c4d8fa91637a93b525131fa4817ee21ee322ca86168849"
+    },
+    {
+      "title": "Изменение, копирование и удаление рекламы",
+      "url": "https://ads.vk.ru/help/mini_ads/change",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "af37970c7fab5e91875e7e07996c3fb897d58e92d38a54ec53dcad475d9aedff"
+    },
+    {
+      "title": "Как изменить или скопировать объявление",
+      "url": "https://ads.vk.ru/help/mini_ads/change/change",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "1375553c56a1a607fcf90cc7db0fb45e991e49f7ed7204c339a319b22ba9c093"
+    },
+    {
+      "title": "Как остановить или удалить объявление",
+      "url": "https://ads.vk.ru/help/mini_ads/change/delete",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "901e75306d6ea6dcb5904f20275ed846890c7b7bb9f7cccae9502981918097fe"
+    },
+    {
+      "title": "Объявление отклонено",
+      "url": "https://ads.vk.ru/help/mini_ads/change/deviation",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "987a89323de681145da991b0aab0e85f8a8f3a115960ccffa129c06f792d23ac"
+    },
+    {
+      "title": "Как найти ID объявления",
+      "url": "https://ads.vk.ru/help/mini_ads/change/id",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "afdd8728aeccafc9345a94428627131f8b11af56e57ddb78295191a9a3d66afd"
+    },
+    {
+      "title": "Как изменить, остановить или удалить группу объявлений",
+      "url": "https://ads.vk.ru/help/mini_ads/change_group",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "fe8a2970bc09b1580db99672e7219b7304d76a0b067efa6795fa44e61659d256"
+    },
+    {
+      "title": "Создание рекламы",
+      "url": "https://ads.vk.ru/help/mini_ads/create",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "481035b4a3f70ef2183da6976dbcf997446269dcc35ba006703544af1f9cbe11"
+    },
+    {
+      "title": "Настройка аудитории и бюджета",
+      "url": "https://ads.vk.ru/help/mini_ads/create/audience_budget",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "8198e1140ace96d0ed0114424392dbbef2504e9d3fd00fa770590f00cd83e9ff"
+    },
+    {
+      "title": "Генерация текста",
+      "url": "https://ads.vk.ru/help/mini_ads/create/autogen",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "3dfb9ffff60ad956c847a9fbf3769158674c62c78e30b5539349e40c6b83e4c0"
+    },
+    {
+      "title": "Черновики",
+      "url": "https://ads.vk.ru/help/mini_ads/create/drafts",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "1f02f69f52e0bb0e0108ec13d292798da7660a588a6c49c77a3a5d52e8ac5cbb"
+    },
+    {
+      "title": "Лимит объявлений",
+      "url": "https://ads.vk.ru/help/mini_ads/create/limit",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "3bfeffb0a4a7e8e79c635a2c417a5503d873009ce2ab33097f130f288067c169"
+    },
+    {
+      "title": "Редактор текста",
+      "url": "https://ads.vk.ru/help/mini_ads/create/mini_editor",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "34b9b8bd03747e383cdf62e595148b1af5dd940ba56f05165dd3bd5a16223636"
+    },
+    {
+      "title": "Предпросмотр",
+      "url": "https://ads.vk.ru/help/mini_ads/create/preview",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "bdf5696a2a2ff96f23a1a2797c470f5bfdf1dc665c7d8d50afc487acf926e5f8"
+    },
+    {
+      "title": "Выбор цели",
+      "url": "https://ads.vk.ru/help/mini_ads/create/selection",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "24c6f5283010c03e29c842792d6059c47882d8e3497beca3454dba8544dc1196"
+    },
+    {
+      "title": "Привлечь клиентов, подписчиков",
+      "url": "https://ads.vk.ru/help/mini_ads/create/selection/clients",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "86579a07dedaf8dc34fb86d827db88b653d6ae8869df165db577e48e4e2a573d"
+    },
+    {
+      "title": "Продать товары, оказать услуги",
+      "url": "https://ads.vk.ru/help/mini_ads/create/selection/goods",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "40ee55f17cb5f66c1c6364d874efaddeedeef2e8161cfc2198416a9f2e2b1b06"
+    },
+    {
+      "title": "Получить лиды (контакты)",
+      "url": "https://ads.vk.ru/help/mini_ads/create/selection/leads",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "83aecb28c879ee0e601c485261648e76eba88ddb55383a7569559d02b26d529d"
+    },
+    {
+      "title": "Принять заказы в сообщениях",
+      "url": "https://ads.vk.ru/help/mini_ads/create/selection/orders",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "0b40a6a65feaf822a893bb17ec997fb8ac37ff29644f1bc7cae57f86cf194a4c"
+    },
+    {
+      "title": "Продвигать пост, видео или клип",
+      "url": "https://ads.vk.ru/help/mini_ads/create/selection/post",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "fc6a6315d7d180af012656270cae52b8e2d2102ca85aabb76622051ecc26a6c6"
+    },
+    {
+      "title": "Привлечь посетителей на сайт",
+      "url": "https://ads.vk.ru/help/mini_ads/create/selection/visitors",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "4294ee7ad45b5a0acde4c5b89e4191c99939c2c062c45e50ea3adca803405b95"
+    },
+    {
+      "title": "Пополнение бюджета",
+      "url": "https://ads.vk.ru/help/mini_ads/replenishment",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "ef739cfa85635b597ff817266d805fe9f1ebdcbb34ed2258946185c9952b2533"
+    },
+    {
+      "title": "Как пополнить бюджет",
+      "url": "https://ads.vk.ru/help/mini_ads/replenishment/money",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "954f144e357a4312833a7a76d5b99f18b2ca624217c102e94016f5ed9ba133bf"
+    },
+    {
+      "title": "Акции и промокоды",
+      "url": "https://ads.vk.ru/help/mini_ads/replenishment/promocode",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "44f009962a5990555e30f5cdda6d81e160cb8b97973a30f3e8f9f14d7ccee65d"
+    },
+    {
+      "title": "Обзор кабинета",
+      "url": "https://ads.vk.ru/help/mini_ads/review",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "997d91605cfc16446c674d03a15a6730970db25cf16e0fef4ff6586b9aaa004d"
+    },
+    {
+      "title": "Открывается пустой кабинет",
+      "url": "https://ads.vk.ru/help/mini_ads/review/empty",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "f228315ad3fe52deff66c5810f4136637739fbaa28384b552e961f56a787e9c5"
+    },
+    {
+      "title": "Гид по интерфейсу",
+      "url": "https://ads.vk.ru/help/mini_ads/review/guide",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "9f8a69a1c235f567635ba43dde8e2486da88ea6cda08281524c4d038cb143849"
+    },
+    {
+      "title": "Мультиаккаунты",
+      "url": "https://ads.vk.ru/help/mini_ads/review/mini_ads",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "816b00a78bb79601584413644ad3734421b65fd6d0588af6635ad0054d0d3ee8"
+    },
+    {
+      "title": "Как открыть кабинет на телефоне",
+      "url": "https://ads.vk.ru/help/mini_ads/review/opening",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "292b3d3baf9e6db4c428ff2315d6fbfc6a0add7d4a1e015704c917964ae51381"
+    },
+    {
+      "title": "Нет рекламы в кабинете",
+      "url": "https://ads.vk.ru/help/mini_ads/review/view",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "88312b785bd930b7f4f8fb6679bb71d15a1897a827c08b1ef07a95406b19d3e2"
+    },
+    {
+      "title": "Статистика",
+      "url": "https://ads.vk.ru/help/mini_ads/stat",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "ddd6d52907a435a90ee7608c12b966db2e56d1c66771e4a0ab3ab5c168a73607"
+    },
+    {
+      "title": "Анализ статистики",
+      "url": "https://ads.vk.ru/help/mini_ads/stat/analysis",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "ea2f5b2a7cc460e1751d0be590532f74e1d82bafcbecd6f17c671d1ff5a44b40"
+    },
+    {
+      "title": "Оценка эффективности объявлений",
+      "url": "https://ads.vk.ru/help/mini_ads/stat/efficiency",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "0fa61a9f5c5dbdc17fbbb624b20ef7dad3cc9bf35bf4953514ae906866ac7290"
+    },
+    {
+      "title": "Маркировка рекламыКак маркировать рекламу: что такое ОРД, как заполнить данные и подать отчёт, статус объявления в ОРДПодробнее",
+      "url": "https://ads.vk.ru/help/ord",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "05a1fe4cecafc5b1d12e25128ecfa08d8cac02f08bcf68973768dd5536abaacd"
+    },
+    {
+      "title": "Как заполнить данные для ОРД",
+      "url": "https://ads.vk.ru/help/ord/filling",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "3ae24415db3e7968dc3ed4794be07e75a751fef118164c64d48e9fd5b60f44d3"
+    },
+    {
+      "title": "Рекламодателям",
+      "url": "https://ads.vk.ru/help/ord/filling/ord_advertiser",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "2caa7babd5b234cbaeb3e27cc1eff792cfc3db2ee21f19d5d8f216b52b3dd975"
+    },
+    {
+      "title": "Агентствам",
+      "url": "https://ads.vk.ru/help/ord/filling/ord_agency",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "299c25a94b3d9a6371ea12a8c88cd4dcb15742a2fcad48aef3f961d8a92c2c20"
+    },
+    {
+      "title": "Как маркируется реклама",
+      "url": "https://ads.vk.ru/help/ord/labeling",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "946b4c27d18b871ee297b4202bc3fb20f1db5035d8ea1c24ee0db516c7cd4510"
+    },
+    {
+      "title": "Агентствам: как подавать отчёты",
+      "url": "https://ads.vk.ru/help/ord/ord_agency_report",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "a242bd66ee5f9a669bbf0fff56db2c5333f63b8fdeb72649064eff5334257820"
+    },
+    {
+      "title": "Что такое ОРД",
+      "url": "https://ads.vk.ru/help/ord/ord_meaning",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "57c1605d53996ef08c0fcdd805360b7dd6ce6f77724ae9a19f6cc6fac115596b"
+    },
+    {
+      "title": "Статус объявления в ОРД",
+      "url": "https://ads.vk.ru/help/ord/ord_status",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "52369e865ad8c1f51d9d27a5cf245714f8e778c52d9580963aa3cd131ebbdc2a"
+    },
+    {
+      "title": "Сбор на рекламу",
+      "url": "https://ads.vk.ru/help/ord/tax",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "8e427f51051c513b2e22c773a58522c9c83dd0acc730d0f7dd6d8d1ea5256cc3"
+    },
+    {
+      "title": "Кабинет партнёраИнструкции по работе в кабинете партнёра — Рекламная сеть VKПодробнее",
+      "url": "https://ads.vk.ru/help/partner",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "4fb7a06c0a15f9764af39b7c4db3022364984799841c43729cbd522422fe444a"
+    },
+    {
+      "title": "API Рекламной сети VK",
+      "url": "https://ads.vk.ru/help/partner/partner_api",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "f77c53f991f86e588f60efa6e83528b4f2d4df9fc91b3820bc0e6f009d4bf7cf"
+    },
+    {
+      "title": "Management API",
+      "url": "https://ads.vk.ru/help/partner/partner_api/partner_management_api",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "b0cdf746e9d8cf75636ca4176058dda64f1ff406baeb17425baa516b19f930cd"
+    },
+    {
+      "title": "Получение статистики партнера по API",
+      "url": "https://ads.vk.ru/help/partner/partner_api/partner_statistics_api",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "4f7aad94d16de1e8182bc6852c93011ec0d5b53c5c9a599e6096093cfe094c69"
+    },
+    {
+      "title": "Включение поддержки API",
+      "url": "https://ads.vk.ru/help/partner/partner_api/partners_reporting_api",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "e76cda9245beeb39ada1d166d4e81a37a4935f5bdaf8d981bdc9ba283a61f0bf"
+    },
+    {
+      "title": "Реклама в приложениях",
+      "url": "https://ads.vk.ru/help/partner/partner_app",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "2e52c47d4ef6f5b9a34f61c6a6cc6fa3b1e64e076368df2924c59eab3446d7fe"
+    },
+    {
+      "title": "Типы рекламных блоков для приложений",
+      "url": "https://ads.vk.ru/help/partner/partner_app/partner_app_block",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "e36e94e11629bdfef42e054c03c914c785c7e890350f4040988a86ce32ba0974"
+    },
+    {
+      "title": "Создание и настройка площадки для приложений",
+      "url": "https://ads.vk.ru/help/partner/partner_app/partner_create_app",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "c92061192f8dbd4f6b1560f316cfd3848e2af4ea9de4ef01de44f8fa56911649"
+    },
+    {
+      "title": "Документы партнёров",
+      "url": "https://ads.vk.ru/help/partner/partner_documents",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "ba962246023a3280d35d18613c46b6bfb630e1a7e3897b28bd38876d2c94a649"
+    },
+    {
+      "title": "Подключение ЭДО",
+      "url": "https://ads.vk.ru/help/partner/partner_documents/edm",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "45fbe506a8e2de67898f2e95214b2c6be843b3d91506fc6f617db3f5b9195d9c"
+    },
+    {
+      "title": "Изменение документов партнера",
+      "url": "https://ads.vk.ru/help/partner/partner_documents/partner_changes",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "61148338088a7386350ee7993aa07924ae73bd57e50d052e271a8f5855c82dc2"
+    },
+    {
+      "title": "Реквизиты компании для партнёров-резидентов",
+      "url": "https://ads.vk.ru/help/partner/partner_documents/partner_company_details",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "43d69a3ba10ef5ed0b7fc506442c9df2f919232ef1bed1572b3a8d03cc3d6866"
+    },
+    {
+      "title": "Юридические документы Рекламной сети VK",
+      "url": "https://ads.vk.ru/help/partner/partner_documents/partner_legal",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "d7655388dbaa1e3849ee3d071c9b523a7249f582094b65b73755b61fd77d0b6f"
+    },
+    {
+      "title": "Модерация площадок (сайты и приложения)",
+      "url": "https://ads.vk.ru/help/partner/partner_documents/partner_moderation",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "d2322a071046c579c7d88c793219b106e9e3aa61da3d63ce7c3326d9daa3b9de"
+    },
+    {
+      "title": "Правила Рекламной сети VK",
+      "url": "https://ads.vk.ru/help/partner/partner_documents/partner_rules",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "748468606cc6783324625efd8f214f9cd224514d4ef7c765a1fd81c9b1df9997"
+    },
+    {
+      "title": "Вывод заработанных средств для резидентов",
+      "url": "https://ads.vk.ru/help/partner/partner_documents/partner_withdrawal",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "ee2391853024f153ac01442fde1fa0a76c0b4c92b2e2a3ac5e93fd5136429505"
+    },
+    {
+      "title": "Вывод заработанных средств для нерезидентов",
+      "url": "https://ads.vk.ru/help/partner/partner_documents/partner_withdrawal_nonres",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "d0c9310de6037be8b223d492b04a51bf06e7dbf054f8d390c9405782b354ee14"
+    },
+    {
+      "title": "Помощь",
+      "url": "https://ads.vk.ru/help/partner/partner_help",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "f49cfc8d84eda2fb744db8afbec250df80e16d1cfae8a51343cbe286dc110de0"
+    },
+    {
+      "title": "Часто задаваемые вопросы по монетизации",
+      "url": "https://ads.vk.ru/help/partner/partner_help/partner_faq",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "78824441397971286a1f94c9ad37a76d76df4b58eb622f9977493a69f6a0e79e"
+    },
+    {
+      "title": "Глоссарий",
+      "url": "https://ads.vk.ru/help/partner/partner_help/partner_glossary",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "91b38b17b1c428774a96f0b476fa542c7d2bb2dcc00b6a8ee4e2a48352d48c59"
+    },
+    {
+      "title": "Поддержка Рекламной сети VK",
+      "url": "https://ads.vk.ru/help/partner/partner_help/partner_support",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "2b237cd5bf64782eb144cc62182e962ecf17b4c127c29bc3a3c2d85e9759ad6d"
+    },
+    {
+      "title": "Документация по интеграции",
+      "url": "https://ads.vk.ru/help/partner/partner_integration",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "ee6c5fc38d6720d566ccd7f3889d7aab8b023de920856318109af8d5aaa146be"
+    },
+    {
+      "title": "Android",
+      "url": "https://ads.vk.ru/help/partner/partner_integration/partner_android",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "afe746f938bf383aab9f51d70493336ecc249372a5c5cbc654d913f293e33c6a"
+    },
+    {
+      "title": "Нативный баннер Android (доступен по запросу)",
+      "url": "https://ads.vk.ru/help/partner/partner_integration/partner_android/android_native_banner",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "5eb06a4736302edbefd43e32ca85d7c0f8936d00d8c29e472c9d6fc38698594c"
+    },
+    {
+      "title": "Дополнительная информация Android",
+      "url": "https://ads.vk.ru/help/partner/partner_integration/partner_android/partner_additional_information_android",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "1a879868d7f7e4845b35be60b16dbb4559c2d1d44bf1570271380c35ff460967"
+    },
+    {
+      "title": "Баннер Android",
+      "url": "https://ads.vk.ru/help/partner/partner_integration/partner_android/partner_android_banner",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "f88a27f7829bbf091d8e20e83b1464a628606095c560184e23bf6f61fc3af3d3"
+    },
+    {
+      "title": "Полноэкранный блок Android",
+      "url": "https://ads.vk.ru/help/partner/partner_integration/partner_android/partner_android_fullscreen",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "5d1b13d2c05a044742f6b1e0ea4dd27da7440be26c01dd9bff401b10b39710ea"
+    },
+    {
+      "title": "История изменений SDK Android",
+      "url": "https://ads.vk.ru/help/partner/partner_integration/partner_android/partner_android_history",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "babf3251755a3528ccf4335aa1ab12f4d7dff809dc53a926f8a08c249ab7c9a2"
+    },
+    {
+      "title": "Интеграция Android",
+      "url": "https://ads.vk.ru/help/partner/partner_integration/partner_android/partner_android_integration",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "107706e49b9e397b7af580966dad90d0dabb6ef970d3c1aad1fe7f6221c7a9bb"
+    },
+    {
+      "title": "Нативный блок Android",
+      "url": "https://ads.vk.ru/help/partner/partner_integration/partner_android/partner_android_native",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "4fb9bdccf6b87822363012226eecbd72bb3af7ccb8e16acaf0a8291e9379acf9"
+    },
+    {
+      "title": "Адаптеры для других медиаций Android",
+      "url": "https://ads.vk.ru/help/partner/partner_integration/partner_android/partner_android_other",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "062c196f8ebd60bee09b290c0c3398a512dc9090f0667bd071c8d68f9381c3ee"
+    },
+    {
+      "title": "Видео с вознаграждением Android",
+      "url": "https://ads.vk.ru/help/partner/partner_integration/partner_android/partner_android_rewarded",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "c1f4d08396dc9e3db0de04d88e6905c5d4894dc55b7fcb33b5826f13122d8cf3"
+    },
+    {
+      "title": "Тестовый режим Android",
+      "url": "https://ads.vk.ru/help/partner/partner_integration/partner_android/partner_android_test",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "53329c30de6c41c5bf0fd96c1fa095a1653ea0d18518bbfa69178285935180cc"
+    },
+    {
+      "title": "Рекомендации по работе с Google Privacy & Security",
+      "url": "https://ads.vk.ru/help/partner/partner_integration/partner_android/partner_g_privacy_security",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "23ebaa3005e7fd036ddfe394b29cce2128643c38221d13fbe8b702a8c5ab2e42"
+    },
+    {
+      "title": "In-stream видео Android",
+      "url": "https://ads.vk.ru/help/partner/partner_integration/partner_android/partner_instream_android",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "a303a4c1e4a99dbf9ec481c50d4a0f5825b2e94fbc28ad9c6cea8a1161837800"
+    },
+    {
+      "title": "Пользовательские данные, приватность и GDPR Android",
+      "url": "https://ads.vk.ru/help/partner/partner_integration/partner_android/partner_privacy_android",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "7cee00942074177f81ecf0ab774328f4c67568c11d67b9c14b1822612939a2ed"
+    },
+    {
+      "title": "iOS",
+      "url": "https://ads.vk.ru/help/partner/partner_integration/partner_ios",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "6b2772e2c7ebd3518f63050d37f1f7940c41e3a0330defbe2dd6e054e1556654"
+    },
+    {
+      "title": "Нативный баннер iOS (доступен по запросу)",
+      "url": "https://ads.vk.ru/help/partner/partner_integration/partner_ios/ios_native_banner",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "5080d3ad0a10d6c16c6b545d2f147c18cdb03f195c2274a66a74cf9c5954e8ca"
+    },
+    {
+      "title": "Баннер iOS",
+      "url": "https://ads.vk.ru/help/partner/partner_integration/partner_ios/partner_ios_banner",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "04149224d60b541b4116d7316754716ab26cf567677d74a08ad08a6ea7ddd5fb"
+    },
+    {
+      "title": "Полноэкранный блок iOS",
+      "url": "https://ads.vk.ru/help/partner/partner_integration/partner_ios/partner_ios_fullscreen",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "9275001db8815b9f3eb3ef09e85aa082b11a0e4d008da269f381a48dd18930ab"
+    },
+    {
+      "title": "История изменений SDK iOS",
+      "url": "https://ads.vk.ru/help/partner/partner_integration/partner_ios/partner_ios_history",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "29548718b0572a8b044f372af80b77136be129dba7c3e16f7cd56f9c047fbc15"
+    },
+    {
+      "title": "Интеграция iOS",
+      "url": "https://ads.vk.ru/help/partner/partner_integration/partner_ios/partner_ios_integration",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "e0b6fb94b6f40355d19892c50d3c8b253121f30163a079905206476fe9bf6649"
+    },
+    {
+      "title": "Нативный блок iOS",
+      "url": "https://ads.vk.ru/help/partner/partner_integration/partner_ios/partner_ios_native",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "985ac5e68ab4819a96d7b61e88c7569028e24765112cd248f4a6412350a00d4f"
+    },
+    {
+      "title": "Адаптеры для других медиаций iOS",
+      "url": "https://ads.vk.ru/help/partner/partner_integration/partner_ios/partner_ios_other",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "9d4814a1684a613ac7d558e2d5d426083e34369c89193af514a413355cc59e7e"
+    },
+    {
+      "title": "Видео с вознаграждением iOS",
+      "url": "https://ads.vk.ru/help/partner/partner_integration/partner_ios/partner_ios_rewarded",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "3b68287eea55ae13a623bbfe212311b552c0e145256fc8ecea068556ae1113b6"
+    },
+    {
+      "title": "Тестовый режим iOS",
+      "url": "https://ads.vk.ru/help/partner/partner_integration/partner_ios/partner_ios_test",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "cfe7c2b1bf204a466d92b2fa2aa16e6b60efb19e800aed875e2e759dbef8879e"
+    },
+    {
+      "title": "Медиация ironSource",
+      "url": "https://ads.vk.ru/help/partner/partner_integration/partner_is_mediation",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "d457d33c6f64d9b68a00a63ff16504613fc221d5bf28ed464aad23abc5bd722e"
+    },
+    {
+      "title": "Медиация MAX",
+      "url": "https://ads.vk.ru/help/partner/partner_integration/partner_max_mediation",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "486a63b5c3c6983c9215c126dfdd02a39ad0692885815a905b2bf773a2db59d7"
+    },
+    {
+      "title": "Тестирование интеграции",
+      "url": "https://ads.vk.ru/help/partner/partner_integration/partner_test_mode",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "1c5560b6e3e2df965c4d4a2a5b57d1f175344f4b6b74c79ef1f7ba7774c17e8a"
+    },
+    {
+      "title": "Unity",
+      "url": "https://ads.vk.ru/help/partner/partner_integration/partner_unity",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "e88039e094a459fcb08c9c4b1f37e5fa2f5ab135544ffae433b3caa14838c8f5"
+    },
+    {
+      "title": "Баннер Unity",
+      "url": "https://ads.vk.ru/help/partner/partner_integration/partner_unity/partner_unity_banner",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "6f22e49e279ae32ee3462054fbbe038ed112d5bf58bff4e7c658ab27ba3359c2"
+    },
+    {
+      "title": "Полноэкранный блок Unity",
+      "url": "https://ads.vk.ru/help/partner/partner_integration/partner_unity/partner_unity_fullscreen",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "27765dd574ad61e4ffc230c25572e43074ffb057a77b9bce74aeead8b91d30fb"
+    },
+    {
+      "title": "Интеграция Unity",
+      "url": "https://ads.vk.ru/help/partner/partner_integration/partner_unity/partner_unity_integration",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "8573e4ab5ce3196c2bf18b451a7768a9e46670822558c8ab34915004ace4d486"
+    },
+    {
+      "title": "Видео с вознаграждением Unity",
+      "url": "https://ads.vk.ru/help/partner/partner_integration/partner_unity/partner_unity_rewarded",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "65cb72ee2ab1a91304aa052638dfe8c137a8d9e2d31b09b4f39128f5d1a8bae3"
+    },
+    {
+      "title": "Тестовый режим Unity",
+      "url": "https://ads.vk.ru/help/partner/partner_integration/partner_unity/partner_unity_test",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "f68b5abe6e65e43aab9f63bb631cafd0e8ff56665d352d29ad7a7b154c15eb42"
+    },
+    {
+      "title": "Пользовательские данные",
+      "url": "https://ads.vk.ru/help/partner/partner_integration/partner_user_data",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "896c5dd1d54d9db8c53526fce8e608a9536cc156778063e1888fd6f614b1a0dc"
+    },
+    {
+      "title": "Web",
+      "url": "https://ads.vk.ru/help/partner/partner_integration/partner_web",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "449c4e1439098898e6ef818110216388af146128adb730d882b8cac0bac1102b"
+    },
+    {
+      "title": "События и коды плеера Adman3",
+      "url": "https://ads.vk.ru/help/partner/partner_integration/partner_web/partner_adman3_codes",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "c932363d5cd6c904144a0883fa65ca3634590ffe0714b4d53b115b6b39ad26b5"
+    },
+    {
+      "title": "Header Bidding",
+      "url": "https://ads.vk.ru/help/partner/partner_integration/partner_web/partner_header_bidding",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "18a3cc7af59b78e3ad596e0ad6ea0eb005b7fde9201add83aadfdb5129ba1b1d"
+    },
+    {
+      "title": "Интеграция на страницы сайта",
+      "url": "https://ads.vk.ru/help/partner/partner_integration/partner_web/partner_web_integration",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "57d9c625254e143466109dc7fd5ec7d137945273e1a2b6d3c762bc62cb67cc0a"
+    },
+    {
+      "title": "Интеграция внутри видео",
+      "url": "https://ads.vk.ru/help/partner/partner_integration/partner_web/partner_web_integration_in_stream",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "b928a42d99f1863c8c475b590f18ba501ed21a99bd36419c44a819aac5bd375e"
+    },
+    {
+      "title": "Отчётность ОРД",
+      "url": "https://ads.vk.ru/help/partner/partner_ord",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "d92917dacfba0dd6ad833190acbe01bd19360b9120c5ba3a7642c6e1eaecc452"
+    },
+    {
+      "title": "Работа партнёров с ОРД VK",
+      "url": "https://ads.vk.ru/help/partner/partner_ord/partner_ord",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "2e8d4dabc76e7df2ff18884a29341b136b3c69f039212c1ea0e59a6c29f6de7a"
+    },
+    {
+      "title": "Реклама на сайтах",
+      "url": "https://ads.vk.ru/help/partner/partner_site",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "b57f9aaffc7d159623c752459f959bd2ade2904681d84a49223f1284c6de3135"
+    },
+    {
+      "title": "Finger Print ID",
+      "url": "https://ads.vk.ru/help/partner/partner_site/fingerprint",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "55147cd47d71e00bd1564f084446b200297948873510130ddc82ca222fcaee09"
+    },
+    {
+      "title": "InStream блок: доступ и создание",
+      "url": "https://ads.vk.ru/help/partner/partner_site/instream",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "c792539f3cd60a65e40de6b0de35b12bad9ff4a78b07e5bec9febb3479f6eb31"
+    },
+    {
+      "title": "Адаптивный блок: создание и интеграция кода",
+      "url": "https://ads.vk.ru/help/partner/partner_site/partner_adaptive",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "d02fea19a4d78a672b5b3fcf6d903a8f8bd84ccd0446c793db1c0904c9b73218"
+    },
+    {
+      "title": "Создание и настройка площадки для сайтов",
+      "url": "https://ads.vk.ru/help/partner/partner_site/partner_create_site",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "aca7a971476d01d785515b27b7a6c780abfc195ebd3213aa69fb534f405d1774"
+    },
+    {
+      "title": "Реклама на сайтах с CSP",
+      "url": "https://ads.vk.ru/help/partner/partner_site/partner_csp",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "b7afa5eeb3abef334898b3c4a401983ff5cdcc638bcfb80d2efd9eb16a348392"
+    },
+    {
+      "title": "Выбор режима flyroll для inPage блоков на сайтах",
+      "url": "https://ads.vk.ru/help/partner/partner_site/partner_flyroll",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "6583c2e8ef69ed5c8918bab12a0112ede45042e216f32fba5e6754c4cdd726ce"
+    },
+    {
+      "title": "InPage блок: настройка и интеграция кода",
+      "url": "https://ads.vk.ru/help/partner/partner_site/partner_inpage",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "e710c3069e9bc9c2f21f972ec334e0add30bff48340ddfbec3bac2779db9c1a4"
+    },
+    {
+      "title": "Типы рекламных блоков для сайтов",
+      "url": "https://ads.vk.ru/help/partner/partner_site/partner_site_block",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "1ca507ba44de7ec95cdc36bf232fcfc4aa11db229703d092361fcd1795df0e2c"
+    },
+    {
+      "title": "Плагин для сайтов на WordPress",
+      "url": "https://ads.vk.ru/help/partner/partner_site/partner_wordpress",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "ed431274f1682bbf1cb312912e56f29e082c753b50d8cd3e0a21d06a3df81e5d"
+    },
+    {
+      "title": "Начало работы",
+      "url": "https://ads.vk.ru/help/partner/partner_start",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "71c762fbb88f0e47288fcd60946ed06bb767a541e7b5e276d55a621eff6284a5"
+    },
+    {
+      "title": "Подключение дополнительных аккаунтов",
+      "url": "https://ads.vk.ru/help/partner/partner_start/partner_additional",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "ed21b776ea12f2f95fb2fdb4484bd9a8940cfe1647701050b48a7921798d3b7d"
+    },
+    {
+      "title": "Получение строк для ads.txt и app-ads.txt",
+      "url": "https://ads.vk.ru/help/partner/partner_start/partner_ads_txt",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "259ec71c1b4b10d5899ebd01534d2ff83b7c8fe81f18f6a6b533e639c686c467"
+    },
+    {
+      "title": "Блокировка рекламы",
+      "url": "https://ads.vk.ru/help/partner/partner_start/partner_blacklists",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "21944965019ec752db54a2b901f184099b4f0439743a3656d221eba9094fde18"
+    },
+    {
+      "title": "Импорт партнёрского кабинета myTarget",
+      "url": "https://ads.vk.ru/help/partner/partner_start/partner_import_mt",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "31b41889658992870b561753b3fe93bdc13946650f71bf8ddfb20f86f40a08c0"
+    },
+    {
+      "title": "Уведомления в аккаунте партнёра",
+      "url": "https://ads.vk.ru/help/partner/partner_start/partner_notifications",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "702dc06176a59c837eafbcf89d8439a66ad62488e3919dc77ba6ffd00549028f"
+    },
+    {
+      "title": "Регистрация аккаунта партнёра",
+      "url": "https://ads.vk.ru/help/partner/partner_start/partner_registration",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "5e72a3f535e1a2bf5c1c369381ef11b15b6dfa94357a5b1ab703fbb8f5a22603"
+    },
+    {
+      "title": "Сотрудничество с самозанятыми партнёрами",
+      "url": "https://ads.vk.ru/help/partner/partner_start/partner_self_employed",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "abdd13129bba3cabc489a893774007b8c64f43e46453f04b7d0ecd257bc0f9aa"
+    },
+    {
+      "title": "Настройка аккаунта партнёра",
+      "url": "https://ads.vk.ru/help/partner/partner_start/partner_settings",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "b99397e45966c765638340f6d795d905d005aacaac1c60d6d550fc4164c1d659"
+    },
+    {
+      "title": "Статистика в кабинете партнёра",
+      "url": "https://ads.vk.ru/help/partner/partner_statistics",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "6101c7a880a6e2a4342d20746b055feaffd726c322e3c59850a184518dedd519"
+    },
+    {
+      "title": "Статистика по монетизации",
+      "url": "https://ads.vk.ru/help/partner/partner_statistics/partner_statistics",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "bbd5e9a57da0eafd21e03e8dd1983dfe8073b98569d2e49429ff4ad8410853db"
+    },
+    {
+      "title": "Прямые сделки",
+      "url": "https://ads.vk.ru/help/partner/straight",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "b257039ee42c7bddb93c1f361a082a418b453ac2bf78d208c50856f44a6a8fd3"
+    },
+    {
+      "title": "Заявки и настройка прямой сделки",
+      "url": "https://ads.vk.ru/help/partner/straight/create_straight",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "a6de298a9e10881754c0335d0786a632d441ce329937b5f8d46f662d1d9c5eab"
+    },
+    {
+      "title": "Редактирование сделки",
+      "url": "https://ads.vk.ru/help/partner/straight/edit_straight",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "83d7ed48245ae285ac1c911fa34e133e1e0f628b3d190edefe20f836e620929c"
+    },
+    {
+      "title": "Маркетплейс прямых сделок",
+      "url": "https://ads.vk.ru/help/partner/straight/market",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "88e8685f7af95db410913c54e5366dd344417a35ded943021bb2c6d4cc53a2a1"
+    },
+    {
+      "title": "Статистика и выгрузка отчётов по сделкам",
+      "url": "https://ads.vk.ru/help/partner/straight/statistics_straight",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "c896d55f5223d8e228686f9fdbb51cadf3d22a61e97c03dee5950321bfb369f7"
+    },
+    {
+      "title": "Прямые сделки для поставщиков трафика",
+      "url": "https://ads.vk.ru/help/partner/straight/suppliers",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "82412c594e2987506c5bfe2f166aa1b56700aeed332b4547a0a771ebcefd8306"
+    },
+    {
+      "title": "Статистика, финансы и акцииКак настроить метрики для анализа, посмотреть статистику рекламы, пополнить баланс и получить бонусыПодробнее",
+      "url": "https://ads.vk.ru/help/statistics",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "74ab47ee38e0c54bcc85e0c3a43440358a4433e7ca3745bd082fca68b529dec2"
+    },
+    {
+      "title": "Агентствам: статистика по клиентам",
+      "url": "https://ads.vk.ru/help/statistics/agency_statistics",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "0d2ebf1f05c06399ee7706f1aa5752fd1ceaa64962b2fb985ba58f879310f8da"
+    },
+    {
+      "title": "Оценка эффективности",
+      "url": "https://ads.vk.ru/help/statistics/campaign_performance",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "04c08c445ed1217c1620c184117b86de2f62ae42d6e9155eace8dd7443025f2c"
+    },
+    {
+      "title": "Работа с дашбордом",
+      "url": "https://ads.vk.ru/help/statistics/dashboard_overview",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "7e27d2368071cbfa429e8f37165266e5a5cf8da2928e50f3395f697aafd652b7"
+    },
+    {
+      "title": "Запуск, остановка, восстановление, удаление",
+      "url": "https://ads.vk.ru/help/statistics/dashboard_start_stop",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "d351f72a2104488015f8c0ffb12c3b1246e768f879d908aac75ac0c06a45ac5f"
+    },
+    {
+      "title": "Оплата и финансы",
+      "url": "https://ads.vk.ru/help/statistics/finance",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "b5394daa02274c4a3436f7356006591183417ab97261ef7328d1209d029c777d"
+    },
+    {
+      "title": "Агентствам: баланс, оплата, закрывающие документы",
+      "url": "https://ads.vk.ru/help/statistics/finance/agency_billing",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "f2a747fc814269d768a5709e574c5143929c882dfa112577c5a8c4553ccdca65"
+    },
+    {
+      "title": "Физические лица: оплата и финансы",
+      "url": "https://ads.vk.ru/help/statistics/finance/finance_individuals",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "157a9c2c9e10e15dc6aae3c531535dfb3b7b681083d67234b6f78f706568da8c"
+    },
+    {
+      "title": "Юридические лица: оплата и финансы",
+      "url": "https://ads.vk.ru/help/statistics/finance/finance_legal",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "e0339a382ada9045a0f9228c699d4ea173af49543e6c200c93ae1b8e380f33d7"
+    },
+    {
+      "title": "Проблемы с оплатой",
+      "url": "https://ads.vk.ru/help/statistics/finance/problems",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "817521e82fa5684faf10f8a7a3b095a877461f28aed1624f5cb08ab5b828d938"
+    },
+    {
+      "title": "Метрики и расширенная статистика",
+      "url": "https://ads.vk.ru/help/statistics/metrics",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "4af53562f5d581abd4023b4747f08a068ec73bd1a28ee9f85b4b0ecdb9192dde"
+    },
+    {
+      "title": "Акции, бонусы и промокоды",
+      "url": "https://ads.vk.ru/help/statistics/promotions",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "323aa081dcee518145b869586982c2f7c64d53814e2ee70aec73e822b24b79b4"
+    },
+    {
+      "title": "Бонусы и промокоды",
+      "url": "https://ads.vk.ru/help/statistics/promotions/bonuses",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "e509878e05bdf624ec4967d2ce97097b640c688b1be358eb3014ba1e9a37134b"
+    },
+    {
+      "title": "Программа лояльности",
+      "url": "https://ads.vk.ru/help/statistics/promotions/loyalty_program",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "37dbbef3b9cdaa24ba165f546886efd2a1351d8568689edb53183a2bffefb8a1"
+    },
+    {
+      "title": "Выгрузка отчёта",
+      "url": "https://ads.vk.ru/help/statistics/report",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "6a7df4dc32e941dd7e169019d80197608eeafc07d966e74fe5d42256d4795a92"
+    },
+    {
+      "title": "Статистика из приложений для веб-кампаний",
+      "url": "https://ads.vk.ru/help/statistics/statistics_web2app",
+      "checked": "2026-09-09",
+      "status": "retrieved",
+      "method": "public-http",
+      "text_sha256": "09597ed0c69559934a5685d3bd3226a1c875d997cfc67f62497bc6fc94a850c1"
+    }
+  ]
+}

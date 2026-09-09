@@ -1,0 +1,6 @@
+interface:
+  display_name: "VK Ads Codex"
+  short_description: "Технические сценарии VK Ads и карта документации"
+  default_prompt: "Используй $vk-ads-codex: проверь задачу VK Ads по актуальной справке и предложи проверяемое решение."
+policy:
+  allow_implicit_invocation: true
